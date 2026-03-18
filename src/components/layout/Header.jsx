@@ -13,14 +13,14 @@ function Logo({ scrolled }) {
   const subtitleColor = scrolled ? '#7A8FA6' : 'rgba(255,255,255,0.50)';
 
   return (
-    <div className="flex flex-col gap-[2px] leading-none flex-shrink-0 cursor-pointer">
-      <span className="flex items-baseline gap-0 font-heading text-[17px] tracking-[-0.02em] leading-none">
+    <div className="flex flex-col gap-[2px] leading-none cursor-pointer max-w-[200px] overflow-hidden flex-shrink min-w-0 md:max-w-none md:overflow-visible">
+      <span className="logo-main flex items-baseline gap-0 font-heading text-[17px] tracking-[-0.02em] leading-none">
         <span style={{ color: mainColor, fontWeight: 800 }}>MisconiUSA</span>
         <span style={{ color: mainColor, fontWeight: 400 }}>Distribution</span>
         <span style={{ color: 'var(--alert-green)', fontWeight: 700 }}>.com</span>
       </span>
       <span
-        className="font-body text-[9px] tracking-[0.14em] uppercase font-[500]"
+        className="logo-sub font-body text-[9px] tracking-[0.14em] uppercase font-[500]"
         style={{ color: subtitleColor }}
       >
         Supplier Representation Network
@@ -105,7 +105,7 @@ export default function Header() {
         className={cx('misconi-header fixed top-0 left-0 w-full z-[100] transition-all', scrolled && 'scrolled')}
         style={{ transition: 'all 0.35s cubic-bezier(0.22, 1, 0.36, 1)' }}
       >
-        <div className="mx-auto max-w-[1280px] px-6 md:px-12 flex items-center justify-between">
+        <div className="misconi-header-inner mx-auto max-w-[1280px] px-5 md:px-12 flex items-center justify-between flex-nowrap w-full">
           <NavLink
             to="/"
             className="relative z-20"
@@ -115,7 +115,7 @@ export default function Header() {
             <Logo scrolled={scrolled} />
           </NavLink>
 
-          <nav className="hidden md:flex max-md:hidden items-center gap-[4px]">
+          <nav className="hidden md:flex items-center gap-[4px]">
             {navItems.map((item) => (
               <NavItem
                 key={item.to}
@@ -127,11 +127,11 @@ export default function Header() {
             ))}
           </nav>
 
-          <div className="flex items-center gap-3">
+          <div className="flex items-center gap-2 flex-shrink-0 ml-[12px] md:ml-0 md:gap-3">
             <button
               type="button"
               onClick={() => setSearchOpen(true)}
-              className="h-[40px] w-[40px] rounded-[var(--radius-sm)] border border-[var(--border-light)] bg-transparent hover:bg-[var(--border-light)] transition-colors flex items-center justify-center"
+              className="header-search-btn h-[40px] w-[40px] rounded-[var(--radius-sm)] border border-[var(--border-light)] bg-transparent hover:bg-[var(--border-light)] transition-colors flex items-center justify-center self-center"
               aria-label="Open search"
               style={{ color: searchColor }}
             >
@@ -140,7 +140,7 @@ export default function Header() {
 
             <NavLink
               to="/suppliers"
-              className="hidden md:inline-flex max-md:hidden items-center justify-center gap-0 select-none rounded-[8px] px-[20px] py-[11px] font-heading text-[12px] tracking-[0.08em] uppercase font-[700] text-white hover:bg-[var(--compliance-blue-light)] hover:-translate-y-[1px] hover:shadow-[0_8px_24px_rgba(26,76,124,0.30)]"
+              className="hidden md:inline-flex items-center justify-center gap-0 select-none rounded-[8px] px-[20px] py-[11px] font-heading text-[12px] tracking-[0.08em] uppercase font-[700] text-white hover:bg-[var(--compliance-blue-light)] hover:-translate-y-[1px] hover:shadow-[0_8px_24px_rgba(26,76,124,0.30)]"
               style={{
                 background: desktopCtaBg,
                 border: '1.5px solid rgba(255,255,255,0.30)',
@@ -155,14 +155,14 @@ export default function Header() {
             <button
               type="button"
               onClick={() => setMobileOpen(true)}
-              className="hidden max-md:flex h-[40px] w-[40px] rounded-[var(--radius-sm)] border border-[var(--border-light)] bg-transparent hover:bg-[var(--border-light)] transition-colors flex items-center justify-center"
+              className="hamburger-btn md:hidden h-[40px] w-[40px] rounded-[6px] border border-transparent bg-[rgba(255,255,255,0.08)] hover:bg-[rgba(255,255,255,0.12)] transition-colors flex items-center justify-center self-center"
               aria-label="Open navigation menu"
               style={{ color: hamburgerColor }}
             >
-              <span className="flex flex-col items-center justify-center gap-[5px]" aria-hidden="true">
-                <span style={{ width: 22, height: 2, backgroundColor: hamburgerColor }} />
-                <span style={{ width: 22, height: 2, backgroundColor: hamburgerColor }} />
-                <span style={{ width: 22, height: 2, backgroundColor: hamburgerColor }} />
+              <span className="flex flex-col items-center justify-center gap-[4px]" aria-hidden="true">
+                <span style={{ width: 20, height: 2, backgroundColor: hamburgerColor }} />
+                <span style={{ width: 20, height: 2, backgroundColor: hamburgerColor }} />
+                <span style={{ width: 20, height: 2, backgroundColor: hamburgerColor }} />
               </span>
             </button>
           </div>
@@ -179,6 +179,64 @@ export default function Header() {
             .misconi-header:not(.scrolled) {
               background: transparent;
               padding: 24px 0;
+            }
+
+            @media (max-width: 768px) {
+              .misconi-header-inner {
+                padding-left: 20px;
+                padding-right: 20px;
+              }
+              .logo-main {
+                font-size: 13px !important;
+                letter-spacing: -0.02em;
+                flex-wrap: wrap;
+              }
+              .logo-sub {
+                font-size: 8px !important;
+                letter-spacing: 0.08em !important;
+              }
+            }
+
+            @media (max-width: 399px) {
+              .misconi-header-inner {
+                padding-left: 14px;
+                padding-right: 14px;
+              }
+              .logo-main {
+                flex-wrap: wrap;
+              }
+            }
+
+            @media (max-width: 480px) {
+              .logo-main {
+                font-size: 13px !important;
+              }
+              .logo-sub {
+                font-size: 8px !important;
+                letter-spacing: 0.08em !important;
+              }
+            }
+            @media (max-width: 379px) {
+              .logo-sub {
+                display: none !important;
+              }
+              .logo-main {
+                font-size: 12px !important;
+                flex-wrap: wrap;
+              }
+            }
+
+            @media (max-width: 380px) {
+              .hamburger-btn {
+                width: 36px !important;
+                height: 36px !important;
+              }
+            }
+
+            @media (max-width: 480px) {
+              .header-search-btn {
+                display: none !important;
+              }
             }
           `}
         </style>

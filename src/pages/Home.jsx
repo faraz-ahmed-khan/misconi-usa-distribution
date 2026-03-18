@@ -267,7 +267,7 @@ function Hero() {
         />
       </div>
 
-      <div className="relative z-10 mx-auto max-w-[1280px] px-6 md:px-12 pt-[104px] pb-[140px] md:pb-12">
+      <div className="relative z-10 mx-auto max-w-[1280px] px-5 md:px-12 pt-[100px] pb-[60px] md:pt-[104px] md:pb-12 max-[380px]:px-[14px]">
         <div className="grid grid-cols-1 lg:grid-cols-2 items-center gap-10">
           <motion.div initial="hidden" animate="visible" variants={stagger} className="max-w-[620px]">
             <motion.div variants={fadeInUp}>
@@ -276,7 +276,7 @@ function Hero() {
 
             <motion.h1
               variants={fadeInUp}
-              className="mt-6 font-display text-white text-[40px] leading-[1.0] tracking-[-0.025em] font-[600] md:text-[52px] lg:text-[80px]"
+              className="mt-6 font-display text-white text-[40px] leading-[1.0] tracking-[-0.025em] font-[600] md:text-[48px] lg:text-[80px] max-[480px]:text-[34px] max-[380px]:text-[28px]"
             >
               <em className="not-italic font-[600]">America's</em> Supplier Representation Network
             </motion.h1>
@@ -288,18 +288,23 @@ function Hero() {
               and procurement-aligned performance across every category.
             </motion.p>
 
-            <motion.div variants={fadeInUp} className="mt-10 grid grid-cols-3 gap-0 border-t border-transparent">
+            <motion.div variants={fadeInUp} className="mt-10 hero-stats">
               {featuredStats.map((s, i) => (
-                <div key={s.value} className={i !== 0 ? 'border-l border-white/12 pl-6' : 'pr-6'}>
-                  <div className="font-display text-white text-[48px] leading-[1.0] font-[700]">{s.value}</div>
-                  <div className="font-heading text-[11px] tracking-[0.14em] uppercase text-white/50 mt-3">
+                <div
+                  key={s.value}
+                  className={`hero-stat${i === 2 ? ' hero-stat--level3' : ''}`}
+                >
+                  <div className="hero-stat-number font-display text-white text-[48px] leading-[1.0] font-[700]">
+                    {s.value}
+                  </div>
+                  <div className="hero-stat-label font-heading text-[11px] tracking-[0.14em] uppercase text-white/50 mt-3">
                     {s.label}
                   </div>
                 </div>
               ))}
             </motion.div>
 
-            <motion.div variants={fadeInUp} className="mt-10 flex flex-wrap items-center gap-4">
+            <motion.div variants={fadeInUp} className="mt-10 hero-cta flex flex-wrap items-center gap-4">
               <Button variant="primary" to="/suppliers" withArrow>
                 Explore Suppliers
               </Button>
@@ -310,6 +315,126 @@ function Hero() {
                 Contact Team
               </Button>
             </motion.div>
+
+            <style>{`
+              /* Hero stats responsive layout fix (mobile only) */
+              .hero-stats {
+                display: flex;
+                align-items: stretch;
+              }
+              .hero-stat {
+                position: relative;
+                flex: 1;
+                padding-left: 0;
+                padding-right: 24px;
+              }
+              .hero-stat:not(:first-child) {
+                padding-left: 24px;
+                padding-right: 0;
+              }
+              .hero-stat:not(:first-child)::before {
+                content: '';
+                position: absolute;
+                left: 0;
+                top: 0;
+                transform: none;
+                width: 1px;
+                height: 100%;
+                background: rgba(255,255,255,0.12);
+              }
+
+              .hero-stat-number {
+                font-size: 48px;
+              }
+              .hero-stat-label {
+                /* Keep desktop as-is; mobile wrapping/overflow rules are applied below. */
+              }
+
+              @media (max-width: 1023px) {
+                .hero-stat:not(:first-child)::before {
+                  top: 50%;
+                  transform: translateY(-50%);
+                  height: 40px;
+                  background: rgba(255,255,255,0.15);
+                }
+              }
+
+              /* Tablet (480-768): keep 3 columns row, reduce type + padding */
+              @media (max-width: 768px) {
+                .hero-stat {
+                  padding-right: 18px;
+                }
+                .hero-stat:not(:first-child) {
+                  padding-left: 18px;
+                }
+                .hero-stat-number {
+                  font-size: 32px !important;
+                }
+                .hero-stat-label {
+                  font-size: 9px !important;
+                  letter-spacing: 0.08em !important;
+                }
+              }
+
+              /* Mobile stats grid change */
+              @media (max-width: 480px) {
+                .hero-stats {
+                  display: grid;
+                  grid-template-columns: 1fr 1fr;
+                  gap: 20px 16px;
+                }
+                .hero-stat {
+                  padding: 0;
+                  border-bottom: 1px solid rgba(255,255,255,0.08);
+                  padding-bottom: 16px;
+                }
+                .hero-stat:not(:first-child)::before {
+                  display: none;
+                }
+                .hero-stat--level3 {
+                  grid-column: 1 / -1;
+                  border-bottom: none;
+                  padding-bottom: 0;
+                }
+                .hero-stat-number {
+                  font-size: 36px !important;
+                }
+                .hero-stat-label {
+                  font-size: 9px !important;
+                  letter-spacing: 0.08em !important;
+                  white-space: normal;
+                  word-break: break-word;
+                  text-align: left;
+                  line-height: 1.3;
+                  max-width: none;
+                  overflow: visible;
+                }
+              }
+
+              @media (max-width: 380px) {
+                .hero-stat-number {
+                  font-size: 28px !important;
+                }
+                .hero-stat-label {
+                  font-size: 9px !important;
+                  letter-spacing: 0.08em !important;
+                }
+              }
+
+              /* Hero CTA mobile stacking */
+              @media (max-width: 640px) {
+                .hero-cta {
+                  flex-direction: column;
+                  flex-wrap: nowrap;
+                  align-items: stretch;
+                  gap: 10px;
+                }
+                .hero-cta > a,
+                .hero-cta > button {
+                  width: 100%;
+                }
+              }
+            `}</style>
           </motion.div>
 
           <motion.div initial="hidden" animate="visible" variants={stagger} className="hidden lg:block lg:pl-10 pt-10 lg:pt-0">
@@ -320,7 +445,7 @@ function Hero() {
         </div>
       </div>
 
-      <div className="absolute bottom-10 md:bottom-7 left-1/2 -translate-x-1/2 z-[5] flex flex-col items-center gap-3">
+      <div className="absolute bottom-10 md:bottom-7 left-1/2 -translate-x-1/2 z-[5] flex flex-col items-center gap-3 max-[768px]:bottom-3 max-[640px]:bottom-2 max-[480px]:bottom-1 max-[380px]:bottom-0 max-[768px]:gap-2">
         <div className="text-white/40 font-body text-[12px] tracking-[0.08em] uppercase">Scroll to explore</div>
         <motion.div
           aria-hidden="true"
