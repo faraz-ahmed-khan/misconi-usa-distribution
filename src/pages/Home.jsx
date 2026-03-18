@@ -348,20 +348,18 @@ function StatsTicker() {
       `}</style>
       <div className="absolute inset-0" aria-hidden="true" style={{ opacity: 0.22 }} />
       <div className="h-full flex items-center">
-        <div className="flex gap-10 whitespace-nowrap font-heading text-[12px] tracking-[0.10em] uppercase text-white/80 animate-[marquee_28s_linear_infinite]">
+        <div className="flex gap-10 whitespace-nowrap font-heading text-[12px] tracking-[0.10em] uppercase text-white/80 animate-[marquee_28s_linear_infinite] w-max">
+          {/* sequence 1 */}
           <span className="text-[var(--alert-green)]">✦</span> 2,400+ Verified Suppliers <span className="text-[var(--alert-green)]">✦</span> 47 Product Categories{' '}
           <span className="text-[var(--alert-green)]">✦</span> Level 3 Representation Standards <span className="text-[var(--alert-green)]">✦</span> Readiness-Gated Visibility{' '}
           <span className="text-[var(--alert-green)]">✦</span> Procurement-Aligned Sourcing <span className="text-[var(--alert-green)]">✦</span> Misconi USA Representation Control{' '}
           <span className="text-[var(--alert-green)]">✦</span>
-        </div>
-        {/* duplicate content for seamless loop */}
-        <div className="absolute left-1/2 h-full flex items-center">
-          <div className="flex gap-10 whitespace-nowrap font-heading text-[12px] tracking-[0.10em] uppercase text-white/80 animate-[marquee_28s_linear_infinite]">
-            <span className="text-[var(--alert-green)]">✦</span> 2,400+ Verified Suppliers <span className="text-[var(--alert-green)]">✦</span> 47 Product Categories{' '}
-            <span className="text-[var(--alert-green)]">✦</span> Level 3 Representation Standards <span className="text-[var(--alert-green)]">✦</span> Readiness-Gated Visibility{' '}
-            <span className="text-[var(--alert-green)]">✦</span> Procurement-Aligned Sourcing <span className="text-[var(--alert-green)]">✦</span> Misconi USA Representation Control{' '}
-            <span className="text-[var(--alert-green)]">✦</span>
-          </div>
+
+          {/* sequence 2 (identical) */}
+          <span className="text-[var(--alert-green)]">✦</span> 2,400+ Verified Suppliers <span className="text-[var(--alert-green)]">✦</span> 47 Product Categories{' '}
+          <span className="text-[var(--alert-green)]">✦</span> Level 3 Representation Standards <span className="text-[var(--alert-green)]">✦</span> Readiness-Gated Visibility{' '}
+          <span className="text-[var(--alert-green)]">✦</span> Procurement-Aligned Sourcing <span className="text-[var(--alert-green)]">✦</span> Misconi USA Representation Control{' '}
+          <span className="text-[var(--alert-green)]">✦</span>
         </div>
       </div>
     </div>

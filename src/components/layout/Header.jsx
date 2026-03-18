@@ -69,6 +69,7 @@ function NavItem({ to, label, scrolled, onNavigate }) {
 }
 
 export default function Header() {
+  const location = useLocation();
   const [scrolled, setScrolled] = useState(false);
   const [searchOpen, setSearchOpen] = useState(false);
   const [mobileOpen, setMobileOpen] = useState(false);
@@ -87,11 +88,12 @@ export default function Header() {
   );
 
   useEffect(() => {
-    const onScroll = () => setScrolled(window.scrollY > 60);
+    const forceScrolled = /^\/suppliers\/[^/]+$/.test(location.pathname);
+    const onScroll = () => setScrolled(window.scrollY > 60 || forceScrolled);
     onScroll();
     window.addEventListener('scroll', onScroll, { passive: true });
     return () => window.removeEventListener('scroll', onScroll);
-  }, []);
+  }, [location.pathname]);
 
   const hamburgerColor = scrolled ? '#4A4A4A' : 'rgba(255,255,255,0.90)';
   const searchColor = scrolled ? '#4A4A4A' : 'rgba(255,255,255,0.70)';
