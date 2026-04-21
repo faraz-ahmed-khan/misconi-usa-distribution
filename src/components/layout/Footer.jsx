@@ -1,5 +1,7 @@
+'use client';
+
 import React, { useMemo, useState } from 'react';
-import { Link } from 'react-router-dom';
+import Link from 'next/link';
 import { Linkedin, Twitter } from 'lucide-react';
 import { categories as categoriesData } from '../../data/categories.js';
 
@@ -78,7 +80,7 @@ export default function Footer() {
               {categoriesData.slice(0, 6).map((c) => (
                 <li key={c.id}>
                   <Link
-                    to={`/categories/${c.id}`}
+                    href={`/categories/${c.id}`}
                     className="font-body text-[14px] font-[400] text-[rgba(255,255,255,0.60)] leading-[2] transition-colors duration-[180ms] ease-[cubic-bezier(0.22, 1, 0.36, 1)] hover:text-[var(--alert-green)]"
                   >
                     {c.name}
@@ -96,7 +98,7 @@ export default function Footer() {
               {quickLinks.map((l) => (
                 <li key={l.to}>
                   <Link
-                    to={l.to}
+                    href={l.to}
                     className="font-body text-[14px] font-[400] text-[rgba(255,255,255,0.60)] leading-[2] transition-colors duration-[180ms] ease-[cubic-bezier(0.22, 1, 0.36, 1)] hover:text-[var(--alert-green)]"
                   >
                     {l.label}

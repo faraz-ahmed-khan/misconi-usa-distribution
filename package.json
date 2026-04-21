@@ -4,23 +4,24 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
+    "dev": "next dev",
+    "build": "next build",
+    "preview": "next start",
+    "start": "next start"
   },
   "dependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-router-dom": "^6.x",
     "framer-motion": "^11.x",
-    "lucide-react": "^0.x"
+    "lucide-react": "^0.x",
+    "next": "^16.2.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "typescript": "~5.9.3",
-    "vite": "^5.x",
-    "@vitejs/plugin-react": "^4.x",
-    "tailwindcss": "^3.x",
+    "@types/node": "25.6.0",
+    "@types/react": "19.2.14",
+    "autoprefixer": "^10.x",
     "postcss": "^8.x",
-    "autoprefixer": "^10.x"
+    "tailwindcss": "^3.x",
+    "typescript": "~5.9.3"
   }
 }

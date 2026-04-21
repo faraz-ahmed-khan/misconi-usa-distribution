@@ -1,13 +1,15 @@
+'use client';
+
 import { motion } from 'framer-motion';
 import { ArrowRight } from 'lucide-react';
 import React from 'react';
-import { Link } from 'react-router-dom';
+import Link from 'next/link';
 
 function cx(...classes) {
   return classes.filter(Boolean).join(' ');
 }
 
-const MotionLink = motion(Link);
+const MotionLink = motion.create(Link);
 const MotionAnchor = motion.a;
 const MotionButton = motion.button;
 
@@ -85,7 +87,7 @@ export default function Button({
 
   if (to) {
     return (
-      <MotionLink to={to} {...commonProps} aria-label={ariaLabel}>
+      <MotionLink href={to} {...commonProps} aria-label={ariaLabel}>
         {content}
       </MotionLink>
     );

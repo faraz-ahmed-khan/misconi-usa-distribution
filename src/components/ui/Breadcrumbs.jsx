@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
+import Link from 'next/link';
 
 export default function Breadcrumbs({ items = [] }) {
   return (
@@ -12,7 +12,7 @@ export default function Breadcrumbs({ items = [] }) {
             {isLast ? (
               <span className="text-[var(--text-primary)]">{item.label}</span>
             ) : (
-              <Link className="hover:text-[var(--compliance-blue)] transition-colors" to={item.to}>
+              <Link className="hover:text-[var(--compliance-blue)] transition-colors" href={item.to}>
                 {item.label}
               </Link>
             )}

@@ -1,5 +1,8 @@
+ 'use client';
+
 import React, { useEffect, useMemo, useState } from 'react';
-import { NavLink, useLocation, useNavigate } from 'react-router-dom';
+import Link from 'next/link';
+import { usePathname, useRouter } from 'next/navigation';
 import { Search, ArrowRight } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 import SearchBar from '../ui/SearchBar';
@@ -35,12 +38,12 @@ function NavItem({ to, label, scrolled, onNavigate }) {
   const hoverClass = scrolled ? 'group-hover:text-[var(--compliance-blue)]' : 'group-hover:text-white';
   const activeTextClass = scrolled ? 'text-[var(--compliance-blue)]' : 'text-white';
 
-  const location = useLocation();
-  const isActive = location.pathname === to;
+  const pathname = usePathname();
+  const isActive = pathname === to;
 
   return (
-    <NavLink
-      to={to}
+    <Link
+      href={to}
       onClick={onNavigate}
       className="group relative overflow-hidden px-[12px] py-[8px] rounded-[6px] transition-colors focus-visible:outline-none"
     >
@@ -64,16 +67,16 @@ function NavItem({ to, label, scrolled, onNavigate }) {
         className="absolute left-[12px] right-[12px] bottom-0 h-[2px] bg-[var(--alert-green)]"
         style={{ opacity: isActive ? 1 : 0, transition: 'opacity 180ms var(--ease)' }}
       />
-    </NavLink>
+    </Link>
   );
 }
 
 export default function Header() {
-  const location = useLocation();
+  const pathname = usePathname();
   const [scrolled, setScrolled] = useState(false);
   const [searchOpen, setSearchOpen] = useState(false);
   const [mobileOpen, setMobileOpen] = useState(false);
-  const navigate = useNavigate();
+  const router = useRouter();
 
   const navItems = useMemo(
     () => [
@@ -88,12 +91,12 @@ export default function Header() {
   );
 
   useEffect(() => {
-    const forceScrolled = /^\/suppliers\/[^/]+$/.test(location.pathname);
+    const forceScrolled = /^\/suppliers\/[^/]+$/.test(pathname);
     const onScroll = () => setScrolled(window.scrollY > 60 || forceScrolled);
     onScroll();
     window.addEventListener('scroll', onScroll, { passive: true });
     return () => window.removeEventListener('scroll', onScroll);
-  }, [location.pathname]);
+  }, [pathname]);
 
   const hamburgerColor = scrolled ? '#4A4A4A' : 'rgba(255,255,255,0.90)';
   const searchColor = scrolled ? '#4A4A4A' : 'rgba(255,255,255,0.70)';
@@ -106,14 +109,14 @@ export default function Header() {
         style={{ transition: 'all 0.35s cubic-bezier(0.22, 1, 0.36, 1)' }}
       >
         <div className="misconi-header-inner mx-auto max-w-[1280px] px-5 md:px-12 flex items-center justify-between flex-nowrap w-full">
-          <NavLink
-            to="/"
+          <Link
+            href="/"
             className="relative z-20"
             onClick={() => setMobileOpen(false)}
             style={{ flexShrink: 0 }}
           >
             <Logo scrolled={scrolled} />
-          </NavLink>
+          </Link>
 
           <nav className="hidden md:flex items-center gap-[4px]">
             {navItems.map((item) => (
@@ -138,8 +141,8 @@ export default function Header() {
               <Search size={20} />
             </button>
 
-            <NavLink
-              to="/suppliers"
+            <Link
+              href="/suppliers"
               className="hidden md:inline-flex items-center justify-center gap-0 select-none rounded-[8px] px-[20px] py-[11px] font-heading text-[12px] tracking-[0.08em] uppercase font-[700] text-white hover:bg-[var(--compliance-blue-light)] hover:-translate-y-[1px] hover:shadow-[0_8px_24px_rgba(26,76,124,0.30)]"
               style={{
                 background: desktopCtaBg,
@@ -150,7 +153,7 @@ export default function Header() {
             >
               <span>EXPLORE SUPPLIERS</span>
               <ArrowRight size={14} className="ml-[6px]" />
-            </NavLink>
+            </Link>
 
             <button
               type="button"
@@ -249,7 +252,7 @@ export default function Header() {
         onSubmit={(q) => {
           const query = String(q || '').trim();
           const target = `/search${query ? `?query=${encodeURIComponent(query)}` : ''}`;
-          navigate(target);
+            router.push(target);
           setSearchOpen(false);
         }}
       />
@@ -292,21 +295,21 @@ export default function Header() {
                         animate={{ opacity: 1, y: 0 }}
                         transition={{ duration: 0.38, ease: [0.22, 1, 0.36, 1], delay: idx * 0.06 }}
                       >
-                        <NavLink
-                          to={item.to}
+                        <Link
+                          href={item.to}
                           onClick={() => setMobileOpen(false)}
                           className="font-heading text-[32px] font-[700] text-white tracking-[0.02em] block text-center"
                         >
                           {item.label}
-                        </NavLink>
+                        </Link>
                       </motion.div>
                     ))}
                   </div>
                 </motion.div>
 
                 <div className="w-full mt-[10px]">
-                  <NavLink
-                    to="/suppliers"
+                  <Link
+                    href="/suppliers"
                     onClick={() => setMobileOpen(false)}
                     className="w-full inline-flex items-center justify-center gap-[6px] select-none rounded-[8px] px-[20px] py-[11px] font-heading text-[12px] tracking-[0.08em] uppercase font-[700] text-white"
                     style={{
@@ -318,7 +321,7 @@ export default function Header() {
                   >
                     <span>EXPLORE SUPPLIERS</span>
                     <ArrowRight size={14} />
-                  </NavLink>
+                  </Link>
                 </div>
               </div>
             </div>

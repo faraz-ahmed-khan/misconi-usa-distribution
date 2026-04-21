@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
 import { ArrowRight } from 'lucide-react';
 import React from 'react';
-import { Link } from 'react-router-dom';
+import Link from 'next/link';
 import { getInitialsAvatar } from '../../utils/getInitialsAvatar.jsx';
 
 function cx(...classes) {
@@ -160,7 +160,7 @@ export default function SupplierCard({
 
       <div className="mt-6 pt-5 border-t border-[var(--border-light)]">
         <Link
-          to={`/suppliers/${supplierId}`}
+          href={`/suppliers/${supplierId}`}
           className="group flex items-center justify-end gap-3 font-heading text-[12px] tracking-[0.08em] uppercase text-[var(--compliance-blue)] hover:text-[var(--alert-green)] transition-colors"
         >
           <span>View Supplier</span>

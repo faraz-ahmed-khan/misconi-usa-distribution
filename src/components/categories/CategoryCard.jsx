@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
 import { ArrowRight } from 'lucide-react';
 import React from 'react';
-import { Link } from 'react-router-dom';
+import Link from 'next/link';
 import CategoryIcon from './CategoryIcon.jsx';
 
 function cx(...classes) {
@@ -35,7 +35,7 @@ export default function CategoryCard({
       )}
       style={{ transition: 'all 0.30s var(--ease)' }}
     >
-      <Link to={`/categories/${categoryId}`} className="block h-full">
+      <Link href={`/categories/${categoryId}`} className="block h-full">
         <div className="flex items-start gap-4">
           <div className="w-[48px] h-[48px] rounded-[var(--radius-md)] bg-[var(--off-white-2)] flex items-center justify-center flex-shrink-0">
             <div className="text-[var(--compliance-blue)]">
