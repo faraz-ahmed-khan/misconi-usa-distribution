@@ -41,7 +41,6 @@ export async function submitZohoContact(contact) {
       headers: {
         Authorization: `Zoho-oauthtoken ${accessToken}`,
         'Content-Type': 'application/json',
-        environment: 'development'
       },
       body: JSON.stringify({
         data: [
