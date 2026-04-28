@@ -13,7 +13,8 @@ export default function ContactForm() {
   });
 
   const [errors, setErrors] = useState({});
-  const [status, setStatus] = useState('idle'); // idle | success
+  const [status, setStatus] = useState('idle'); // idle | submitting | success | error
+  const [submitError, setSubmitError] = useState('');
 
   const validate = useMemo(() => {
     const next = {};
@@ -27,15 +28,43 @@ export default function ContactForm() {
     return (e) => setValues((v) => ({ ...v, [field]: e.target.value }));
   }
 
-  function onSubmit(e) {
+  async function onSubmit(e) {
     e.preventDefault();
     if (Object.keys(validate).length) {
       setErrors(validate);
       return;
     }
+
     setErrors({});
-    setStatus('success');
-    window.setTimeout(() => setStatus('idle'), 4500);
+    setSubmitError('');
+    setStatus('submitting');
+
+    try {
+      const response = await fetch('/api/zoho', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(values),
+      });
+      const data = await response.json();
+
+      if (!response.ok || !data.success) {
+        throw new Error(data?.message || 'Unable to send your message right now.');
+      }
+
+      setStatus('success');
+      setValues({
+        fullName: '',
+        email: '',
+        phone: '',
+        companyName: '',
+        message: '',
+      });
+      window.setTimeout(() => setStatus('idle'), 4500);
+    } catch (error) {
+      setStatus('error');
+      setSubmitError(error?.message || 'Unable to send your message right now.');
+      window.setTimeout(() => setStatus('idle'), 4500);
+    }
   }
 
   if (status === 'success') {
@@ -60,6 +89,12 @@ export default function ContactForm() {
 
   return (
     <form onSubmit={onSubmit} className="flex flex-col gap-5">
+      {status === 'error' && (
+        <div className="rounded-[var(--radius-md)] border border-[rgba(194,65,12,0.25)] bg-[rgba(194,65,12,0.08)] p-4 font-body text-[14px] text-[var(--text-secondary)]">
+          {submitError || 'Unable to send your message right now.'}
+        </div>
+      )}
+
       <InputField
         label="Full Name"
         name="fullName"
@@ -109,8 +144,8 @@ export default function ContactForm() {
       />
 
       <div>
-        <Button variant="primary" ariaLabel="Send message">
-          Send Message
+        <Button variant="primary" type="submit" ariaLabel="Send message" disabled={status === 'submitting'}>
+          {status === 'submitting' ? 'Sending...' : 'Send Message'}
         </Button>
       </div>
     </form>

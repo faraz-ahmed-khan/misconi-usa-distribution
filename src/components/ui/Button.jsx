@@ -15,6 +15,7 @@ const MotionButton = motion.button;
 
 export default function Button({
   variant = 'primary',
+  type = 'button',
   to,
   href,
   onClick,
@@ -73,7 +74,7 @@ export default function Button({
   if (disabled) {
     return (
       <MotionButton
-        type="button"
+        type={type}
         {...commonProps}
         onClick={onClick}
         disabled
@@ -109,7 +110,7 @@ export default function Button({
   }
 
   return (
-    <MotionButton type="button" {...commonProps} onClick={onClick} aria-label={ariaLabel}>
+    <MotionButton type={type} {...commonProps} onClick={onClick} aria-label={ariaLabel}>
       {content}
     </MotionButton>
   );
