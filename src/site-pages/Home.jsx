@@ -9,6 +9,7 @@ import ReadinessLevelCard from '../components/readiness/ReadinessLevelCard.jsx';
 import TestimonialCarousel from '../components/testimonials/TestimonialCarousel.jsx';
 import FAQAccordion from '../components/faq/FAQAccordion.jsx';
 import RepresentationDiagram from '../components/representation/RepresentationDiagram.jsx';
+import CorporateBanner from '../components/layout/CorporateBanner.jsx';
 
 import { categories as categories } from '../data/categories.js';
 import { suppliers as suppliersData } from '../data/suppliers.js';
@@ -270,6 +271,10 @@ function Hero() {
       <div className="relative z-10 mx-auto max-w-[1280px] px-5 md:px-12 pt-[100px] pb-[60px] md:pt-[104px] md:pb-12 max-[380px]:px-[14px]">
         <div className="grid grid-cols-1 lg:grid-cols-2 items-center gap-10">
           <motion.div initial="hidden" animate="visible" variants={stagger} className="max-w-[620px]">
+            <motion.div variants={fadeInUp} className="mb-8">
+              <CorporateBanner variant="hero" />
+            </motion.div>
+
             <motion.div variants={fadeInUp}>
               <SectionLabel text="Supplier Representation Network" light={true} />
             </motion.div>

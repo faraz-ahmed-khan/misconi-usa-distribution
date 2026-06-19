@@ -16,18 +16,25 @@ function Logo({ scrolled }) {
   const subtitleColor = scrolled ? '#7A8FA6' : 'rgba(255,255,255,0.50)';
 
   return (
-    <div className="flex flex-col gap-[2px] leading-none cursor-pointer max-w-[200px] overflow-hidden flex-shrink min-w-0 md:max-w-none md:overflow-visible">
-      <span className="logo-main flex items-baseline gap-0 font-heading text-[17px] tracking-[-0.02em] leading-none">
-        <span style={{ color: mainColor, fontWeight: 800 }}>MisconiUSA</span>
-        <span style={{ color: mainColor, fontWeight: 400 }}>Distribution</span>
-        <span style={{ color: 'var(--alert-green)', fontWeight: 700 }}>.com</span>
-      </span>
-      <span
-        className="logo-sub font-body text-[9px] tracking-[0.14em] uppercase font-[500]"
-        style={{ color: subtitleColor }}
-      >
-        Supplier Representation Network
-      </span>
+    <div className="flex items-center gap-3 leading-none cursor-pointer max-w-[280px] overflow-hidden flex-shrink min-w-0 md:max-w-none md:overflow-visible">
+      <img
+        src="/images/distribution-banner.png"
+        alt=""
+        aria-hidden="true"
+        className="logo-emblem h-[36px] w-[36px] md:h-[40px] md:w-[40px] rounded-full object-cover flex-shrink-0"
+        style={{ objectPosition: '50% 8%' }}
+      />
+      <div className="flex flex-col gap-[2px] min-w-0">
+        <span className="logo-main font-heading text-[14px] md:text-[15px] tracking-[-0.02em] leading-none truncate" style={{ color: mainColor, fontWeight: 700 }}>
+          Misconi USA Distribution
+        </span>
+        <span
+          className="logo-sub font-body text-[8px] md:text-[9px] tracking-[0.08em] uppercase font-[500] truncate"
+          style={{ color: subtitleColor }}
+        >
+          Procurement • Distribution • Warehousing • Logistics
+        </span>
+      </div>
     </div>
   );
 }
@@ -190,13 +197,15 @@ export default function Header() {
                 padding-right: 20px;
               }
               .logo-main {
-                font-size: 13px !important;
-                letter-spacing: -0.02em;
-                flex-wrap: wrap;
+                font-size: 12px !important;
               }
               .logo-sub {
-                font-size: 8px !important;
-                letter-spacing: 0.08em !important;
+                font-size: 7px !important;
+                letter-spacing: 0.06em !important;
+              }
+              .logo-emblem {
+                height: 32px !important;
+                width: 32px !important;
               }
             }
 
@@ -205,18 +214,15 @@ export default function Header() {
                 padding-left: 14px;
                 padding-right: 14px;
               }
-              .logo-main {
-                flex-wrap: wrap;
-              }
             }
 
             @media (max-width: 480px) {
               .logo-main {
-                font-size: 13px !important;
+                font-size: 11px !important;
               }
               .logo-sub {
-                font-size: 8px !important;
-                letter-spacing: 0.08em !important;
+                font-size: 6px !important;
+                letter-spacing: 0.05em !important;
               }
             }
             @media (max-width: 379px) {
@@ -224,8 +230,7 @@ export default function Header() {
                 display: none !important;
               }
               .logo-main {
-                font-size: 12px !important;
-                flex-wrap: wrap;
+                font-size: 11px !important;
               }
             }
 

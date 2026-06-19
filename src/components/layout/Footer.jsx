@@ -11,15 +11,22 @@ function cx(...classes) {
 
 function WhiteLogo() {
   return (
-    <div className="flex flex-col leading-none min-w-0">
-      <span className="font-heading text-[15px] font-[800] text-white tracking-[-0.03em] whitespace-normal break-words md:whitespace-nowrap md:break-normal leading-none">
-        <span style={{ fontWeight: 800 }}>MisconiUSA</span>
-        <strong style={{ fontWeight: 400 }}>Distribution</strong>
-        <span className="font-[700] text-[var(--alert-green)]">.com</span>
-      </span>
-      <span className="font-body text-[8px] tracking-[0.12em] uppercase text-[rgba(255,255,255,0.40)] mt-1 font-[500] whitespace-nowrap">
-        Supplier Representation Network
-      </span>
+    <div className="flex items-center gap-3 leading-none min-w-0">
+      <img
+        src="/images/distribution-banner.png"
+        alt=""
+        aria-hidden="true"
+        className="h-[40px] w-[40px] rounded-full object-cover flex-shrink-0"
+        style={{ objectPosition: '50% 8%' }}
+      />
+      <div className="flex flex-col gap-[2px] min-w-0">
+        <span className="font-heading text-[14px] font-[700] text-white tracking-[-0.02em] leading-none">
+          Misconi USA Distribution
+        </span>
+        <span className="font-body text-[8px] tracking-[0.08em] uppercase text-[rgba(255,255,255,0.40)] font-[500]">
+          Procurement • Distribution • Warehousing • Logistics
+        </span>
+      </div>
     </div>
   );
 }
@@ -48,7 +55,7 @@ export default function Footer() {
           <div className="max-w-[280px] overflow-hidden flex flex-col gap-[16px]">
             <WhiteLogo />
             <p className="text-[rgba(255,255,255,0.55)] text-[13px] leading-[1.6] max-w-[240px] mt-1">
-              A procurement-aligned, readiness-gated supplier directory for Misconi USA representation.
+              Supply-chain activation and logistics hub for procurement-aligned supplier distribution.
             </p>
             <div style={{ display: 'flex', gap: 10, marginTop: 16 }}>
               <a
