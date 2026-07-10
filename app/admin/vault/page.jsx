@@ -158,7 +158,7 @@ export default function VaultAdminPage() {
 
       <div className="mt-8 rounded-xl border border-slate-700 bg-slate-900 p-6 shadow-lg">
         <label className="block text-sm font-medium text-slate-200">
-          Admin token <span className="text-slate-400">(VAULT_ADMIN_TOKEN from .env)</span>
+          Admin token
         </label>
         <input
           type="password"
