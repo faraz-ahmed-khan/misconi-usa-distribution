@@ -1,0 +1,1082 @@
+[
+  {
+    "mpiId": "MPI-0001-001",
+    "ubid": "UBID-0001-001",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-01; variant XS"
+  },
+  {
+    "mpiId": "MPI-0001-002",
+    "ubid": "UBID-0001-002",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-01; variant S"
+  },
+  {
+    "mpiId": "MPI-0001-003",
+    "ubid": "UBID-0001-003",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-01; variant M"
+  },
+  {
+    "mpiId": "MPI-0001-004",
+    "ubid": "UBID-0001-004",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-01; variant L"
+  },
+  {
+    "mpiId": "MPI-0001-005",
+    "ubid": "UBID-0001-005",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-01; variant XL"
+  },
+  {
+    "mpiId": "MPI-0001-006",
+    "ubid": "UBID-0001-006",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-01; variant 2XL"
+  },
+  {
+    "mpiId": "MPI-0001-007",
+    "ubid": "UBID-0001-007",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-01; variant 3XL"
+  },
+  {
+    "mpiId": "MPI-0001-008",
+    "ubid": "UBID-0001-008",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-01; variant 4XL"
+  },
+  {
+    "mpiId": "MPI-0001-009",
+    "ubid": "UBID-0001-009",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-01; variant 5XL"
+  },
+  {
+    "mpiId": "MPI-0001-010",
+    "ubid": "UBID-0001-010",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-02; variant XS"
+  },
+  {
+    "mpiId": "MPI-0001-011",
+    "ubid": "UBID-0001-011",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-02; variant S"
+  },
+  {
+    "mpiId": "MPI-0001-012",
+    "ubid": "UBID-0001-012",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-02; variant M"
+  },
+  {
+    "mpiId": "MPI-0001-013",
+    "ubid": "UBID-0001-013",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-02; variant L"
+  },
+  {
+    "mpiId": "MPI-0001-014",
+    "ubid": "UBID-0001-014",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-02; variant XL"
+  },
+  {
+    "mpiId": "MPI-0001-015",
+    "ubid": "UBID-0001-015",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-02; variant 2XL"
+  },
+  {
+    "mpiId": "MPI-0001-016",
+    "ubid": "UBID-0001-016",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-02; variant 3XL"
+  },
+  {
+    "mpiId": "MPI-0001-017",
+    "ubid": "UBID-0001-017",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-02; variant 4XL"
+  },
+  {
+    "mpiId": "MPI-0001-018",
+    "ubid": "UBID-0001-018",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-02; variant 5XL"
+  },
+  {
+    "mpiId": "MPI-0001-019",
+    "ubid": "UBID-0001-019",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-03; variant XS"
+  },
+  {
+    "mpiId": "MPI-0001-020",
+    "ubid": "UBID-0001-020",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-03; variant S"
+  },
+  {
+    "mpiId": "MPI-0001-021",
+    "ubid": "UBID-0001-021",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-03; variant M"
+  },
+  {
+    "mpiId": "MPI-0001-022",
+    "ubid": "UBID-0001-022",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-03; variant L"
+  },
+  {
+    "mpiId": "MPI-0001-023",
+    "ubid": "UBID-0001-023",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-03; variant XL"
+  },
+  {
+    "mpiId": "MPI-0001-024",
+    "ubid": "UBID-0001-024",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-03; variant 2XL"
+  },
+  {
+    "mpiId": "MPI-0001-025",
+    "ubid": "UBID-0001-025",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-03; variant 3XL"
+  },
+  {
+    "mpiId": "MPI-0001-026",
+    "ubid": "UBID-0001-026",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-03; variant 4XL"
+  },
+  {
+    "mpiId": "MPI-0001-027",
+    "ubid": "UBID-0001-027",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-03; variant 5XL"
+  },
+  {
+    "mpiId": "MPI-0001-028",
+    "ubid": "UBID-0001-028",
+    "materials": "Polyester",
+    "dimensions": "One size",
+    "weight": "0.15 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-04; variant STD"
+  },
+  {
+    "mpiId": "MPI-0001-029",
+    "ubid": "UBID-0001-029",
+    "materials": "Polyester",
+    "dimensions": "One size",
+    "weight": "0.15 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-05; variant STD"
+  },
+  {
+    "mpiId": "MPI-0001-030",
+    "ubid": "UBID-0001-030",
+    "materials": "Polyester",
+    "dimensions": "One size",
+    "weight": "0.15 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-06; variant STD"
+  },
+  {
+    "mpiId": "MPI-0001-031",
+    "ubid": "UBID-0001-031",
+    "materials": "Polyester",
+    "dimensions": "One size",
+    "weight": "0.15 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-07; variant STD"
+  },
+  {
+    "mpiId": "MPI-0001-032",
+    "ubid": "UBID-0001-032",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-08; variant XS"
+  },
+  {
+    "mpiId": "MPI-0001-033",
+    "ubid": "UBID-0001-033",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-08; variant S"
+  },
+  {
+    "mpiId": "MPI-0001-034",
+    "ubid": "UBID-0001-034",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-08; variant M"
+  },
+  {
+    "mpiId": "MPI-0001-035",
+    "ubid": "UBID-0001-035",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-08; variant L"
+  },
+  {
+    "mpiId": "MPI-0001-036",
+    "ubid": "UBID-0001-036",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-08; variant XL"
+  },
+  {
+    "mpiId": "MPI-0001-037",
+    "ubid": "UBID-0001-037",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-08; variant 2XL"
+  },
+  {
+    "mpiId": "MPI-0001-038",
+    "ubid": "UBID-0001-038",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-08; variant 3XL"
+  },
+  {
+    "mpiId": "MPI-0001-039",
+    "ubid": "UBID-0001-039",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-08; variant 4XL"
+  },
+  {
+    "mpiId": "MPI-0001-040",
+    "ubid": "UBID-0001-040",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-08; variant 5XL"
+  },
+  {
+    "mpiId": "MPI-0002-001",
+    "ubid": "UBID-0002-001",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-01; variant XS"
+  },
+  {
+    "mpiId": "MPI-0002-002",
+    "ubid": "UBID-0002-002",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-01; variant S"
+  },
+  {
+    "mpiId": "MPI-0002-003",
+    "ubid": "UBID-0002-003",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-01; variant M"
+  },
+  {
+    "mpiId": "MPI-0002-004",
+    "ubid": "UBID-0002-004",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-01; variant L"
+  },
+  {
+    "mpiId": "MPI-0002-005",
+    "ubid": "UBID-0002-005",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-01; variant XL"
+  },
+  {
+    "mpiId": "MPI-0002-006",
+    "ubid": "UBID-0002-006",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-01; variant 2XL"
+  },
+  {
+    "mpiId": "MPI-0002-007",
+    "ubid": "UBID-0002-007",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-01; variant 3XL"
+  },
+  {
+    "mpiId": "MPI-0002-008",
+    "ubid": "UBID-0002-008",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-01; variant 4XL"
+  },
+  {
+    "mpiId": "MPI-0002-009",
+    "ubid": "UBID-0002-009",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-01; variant 5XL"
+  },
+  {
+    "mpiId": "MPI-0002-010",
+    "ubid": "UBID-0002-010",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-02; variant XS"
+  },
+  {
+    "mpiId": "MPI-0002-011",
+    "ubid": "UBID-0002-011",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-02; variant S"
+  },
+  {
+    "mpiId": "MPI-0002-012",
+    "ubid": "UBID-0002-012",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-02; variant M"
+  },
+  {
+    "mpiId": "MPI-0002-013",
+    "ubid": "UBID-0002-013",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-02; variant L"
+  },
+  {
+    "mpiId": "MPI-0002-014",
+    "ubid": "UBID-0002-014",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-02; variant XL"
+  },
+  {
+    "mpiId": "MPI-0002-015",
+    "ubid": "UBID-0002-015",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-02; variant 2XL"
+  },
+  {
+    "mpiId": "MPI-0002-016",
+    "ubid": "UBID-0002-016",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-02; variant 3XL"
+  },
+  {
+    "mpiId": "MPI-0002-017",
+    "ubid": "UBID-0002-017",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-02; variant 4XL"
+  },
+  {
+    "mpiId": "MPI-0002-018",
+    "ubid": "UBID-0002-018",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-02; variant 5XL"
+  },
+  {
+    "mpiId": "MPI-0002-019",
+    "ubid": "UBID-0002-019",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-03; variant XS"
+  },
+  {
+    "mpiId": "MPI-0002-020",
+    "ubid": "UBID-0002-020",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-03; variant S"
+  },
+  {
+    "mpiId": "MPI-0002-021",
+    "ubid": "UBID-0002-021",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-03; variant M"
+  },
+  {
+    "mpiId": "MPI-0002-022",
+    "ubid": "UBID-0002-022",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-03; variant L"
+  },
+  {
+    "mpiId": "MPI-0002-023",
+    "ubid": "UBID-0002-023",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-03; variant XL"
+  },
+  {
+    "mpiId": "MPI-0002-024",
+    "ubid": "UBID-0002-024",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-03; variant 2XL"
+  },
+  {
+    "mpiId": "MPI-0002-025",
+    "ubid": "UBID-0002-025",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-03; variant 3XL"
+  },
+  {
+    "mpiId": "MPI-0002-026",
+    "ubid": "UBID-0002-026",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-03; variant 4XL"
+  },
+  {
+    "mpiId": "MPI-0002-027",
+    "ubid": "UBID-0002-027",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-03; variant 5XL"
+  },
+  {
+    "mpiId": "MPI-0002-028",
+    "ubid": "UBID-0002-028",
+    "materials": "Polyester",
+    "dimensions": "One size",
+    "weight": "0.15 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-04; variant STD"
+  },
+  {
+    "mpiId": "MPI-0002-029",
+    "ubid": "UBID-0002-029",
+    "materials": "Polyester",
+    "dimensions": "One size",
+    "weight": "0.15 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-05; variant STD"
+  },
+  {
+    "mpiId": "MPI-0002-030",
+    "ubid": "UBID-0002-030",
+    "materials": "Polyester",
+    "dimensions": "One size",
+    "weight": "0.15 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-06; variant STD"
+  },
+  {
+    "mpiId": "MPI-0002-031",
+    "ubid": "UBID-0002-031",
+    "materials": "Polyester",
+    "dimensions": "One size",
+    "weight": "0.15 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-07; variant STD"
+  },
+  {
+    "mpiId": "MPI-0002-032",
+    "ubid": "UBID-0002-032",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-08; variant XS"
+  },
+  {
+    "mpiId": "MPI-0002-033",
+    "ubid": "UBID-0002-033",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-08; variant S"
+  },
+  {
+    "mpiId": "MPI-0002-034",
+    "ubid": "UBID-0002-034",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-08; variant M"
+  },
+  {
+    "mpiId": "MPI-0002-035",
+    "ubid": "UBID-0002-035",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-08; variant L"
+  },
+  {
+    "mpiId": "MPI-0002-036",
+    "ubid": "UBID-0002-036",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-08; variant XL"
+  },
+  {
+    "mpiId": "MPI-0002-037",
+    "ubid": "UBID-0002-037",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-08; variant 2XL"
+  },
+  {
+    "mpiId": "MPI-0002-038",
+    "ubid": "UBID-0002-038",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-08; variant 3XL"
+  },
+  {
+    "mpiId": "MPI-0002-039",
+    "ubid": "UBID-0002-039",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-08; variant 4XL"
+  },
+  {
+    "mpiId": "MPI-0002-040",
+    "ubid": "UBID-0002-040",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-08; variant 5XL"
+  },
+  {
+    "mpiId": "MPI-0003-001",
+    "ubid": "UBID-0003-001",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-01; variant XS"
+  },
+  {
+    "mpiId": "MPI-0003-002",
+    "ubid": "UBID-0003-002",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-01; variant S"
+  },
+  {
+    "mpiId": "MPI-0003-003",
+    "ubid": "UBID-0003-003",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-01; variant M"
+  },
+  {
+    "mpiId": "MPI-0003-004",
+    "ubid": "UBID-0003-004",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-01; variant L"
+  },
+  {
+    "mpiId": "MPI-0003-005",
+    "ubid": "UBID-0003-005",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-01; variant XL"
+  },
+  {
+    "mpiId": "MPI-0003-006",
+    "ubid": "UBID-0003-006",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-01; variant 2XL"
+  },
+  {
+    "mpiId": "MPI-0003-007",
+    "ubid": "UBID-0003-007",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-01; variant 3XL"
+  },
+  {
+    "mpiId": "MPI-0003-008",
+    "ubid": "UBID-0003-008",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-01; variant 4XL"
+  },
+  {
+    "mpiId": "MPI-0003-009",
+    "ubid": "UBID-0003-009",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-01; variant 5XL"
+  },
+  {
+    "mpiId": "MPI-0003-010",
+    "ubid": "UBID-0003-010",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-02; variant XS"
+  },
+  {
+    "mpiId": "MPI-0003-011",
+    "ubid": "UBID-0003-011",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-02; variant S"
+  },
+  {
+    "mpiId": "MPI-0003-012",
+    "ubid": "UBID-0003-012",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-02; variant M"
+  },
+  {
+    "mpiId": "MPI-0003-013",
+    "ubid": "UBID-0003-013",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-02; variant L"
+  },
+  {
+    "mpiId": "MPI-0003-014",
+    "ubid": "UBID-0003-014",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-02; variant XL"
+  },
+  {
+    "mpiId": "MPI-0003-015",
+    "ubid": "UBID-0003-015",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-02; variant 2XL"
+  },
+  {
+    "mpiId": "MPI-0003-016",
+    "ubid": "UBID-0003-016",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-02; variant 3XL"
+  },
+  {
+    "mpiId": "MPI-0003-017",
+    "ubid": "UBID-0003-017",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-02; variant 4XL"
+  },
+  {
+    "mpiId": "MPI-0003-018",
+    "ubid": "UBID-0003-018",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-02; variant 5XL"
+  },
+  {
+    "mpiId": "MPI-0003-019",
+    "ubid": "UBID-0003-019",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-03; variant XS"
+  },
+  {
+    "mpiId": "MPI-0003-020",
+    "ubid": "UBID-0003-020",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-03; variant S"
+  },
+  {
+    "mpiId": "MPI-0003-021",
+    "ubid": "UBID-0003-021",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-03; variant M"
+  },
+  {
+    "mpiId": "MPI-0003-022",
+    "ubid": "UBID-0003-022",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-03; variant L"
+  },
+  {
+    "mpiId": "MPI-0003-023",
+    "ubid": "UBID-0003-023",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-03; variant XL"
+  },
+  {
+    "mpiId": "MPI-0003-024",
+    "ubid": "UBID-0003-024",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-03; variant 2XL"
+  },
+  {
+    "mpiId": "MPI-0003-025",
+    "ubid": "UBID-0003-025",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-03; variant 3XL"
+  },
+  {
+    "mpiId": "MPI-0003-026",
+    "ubid": "UBID-0003-026",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-03; variant 4XL"
+  },
+  {
+    "mpiId": "MPI-0003-027",
+    "ubid": "UBID-0003-027",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-03; variant 5XL"
+  },
+  {
+    "mpiId": "MPI-0003-028",
+    "ubid": "UBID-0003-028",
+    "materials": "Polyester",
+    "dimensions": "One size",
+    "weight": "0.15 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-04; variant STD"
+  },
+  {
+    "mpiId": "MPI-0003-029",
+    "ubid": "UBID-0003-029",
+    "materials": "Polyester",
+    "dimensions": "One size",
+    "weight": "0.15 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-05; variant STD"
+  },
+  {
+    "mpiId": "MPI-0003-030",
+    "ubid": "UBID-0003-030",
+    "materials": "Polyester",
+    "dimensions": "One size",
+    "weight": "0.15 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-06; variant STD"
+  },
+  {
+    "mpiId": "MPI-0003-031",
+    "ubid": "UBID-0003-031",
+    "materials": "Polyester",
+    "dimensions": "One size",
+    "weight": "0.15 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-07; variant STD"
+  },
+  {
+    "mpiId": "MPI-0003-032",
+    "ubid": "UBID-0003-032",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-08; variant XS"
+  },
+  {
+    "mpiId": "MPI-0003-033",
+    "ubid": "UBID-0003-033",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-08; variant S"
+  },
+  {
+    "mpiId": "MPI-0003-034",
+    "ubid": "UBID-0003-034",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-08; variant M"
+  },
+  {
+    "mpiId": "MPI-0003-035",
+    "ubid": "UBID-0003-035",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-08; variant L"
+  },
+  {
+    "mpiId": "MPI-0003-036",
+    "ubid": "UBID-0003-036",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-08; variant XL"
+  },
+  {
+    "mpiId": "MPI-0003-037",
+    "ubid": "UBID-0003-037",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-08; variant 2XL"
+  },
+  {
+    "mpiId": "MPI-0003-038",
+    "ubid": "UBID-0003-038",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-08; variant 3XL"
+  },
+  {
+    "mpiId": "MPI-0003-039",
+    "ubid": "UBID-0003-039",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-08; variant 4XL"
+  },
+  {
+    "mpiId": "MPI-0003-040",
+    "ubid": "UBID-0003-040",
+    "materials": "Matte Polyester",
+    "dimensions": "Standard academic sizing",
+    "weight": "0.85 kg",
+    "packaging": "Individually bagged, carton packed",
+    "technicalSpecs": "REG family REG-08; variant 5XL"
+  }
+]

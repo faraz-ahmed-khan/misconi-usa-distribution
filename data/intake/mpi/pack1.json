@@ -1,0 +1,1082 @@
+[
+  {
+    "mpiId": "MPI-0001-001",
+    "ubid": "UBID-0001-001",
+    "msiId": "0001",
+    "productCode": "REG-01",
+    "sku": "MIS-0001-REG-01-XS",
+    "variantCode": "XS",
+    "variantLabel": "XS"
+  },
+  {
+    "mpiId": "MPI-0001-002",
+    "ubid": "UBID-0001-002",
+    "msiId": "0001",
+    "productCode": "REG-01",
+    "sku": "MIS-0001-REG-01-S",
+    "variantCode": "S",
+    "variantLabel": "S"
+  },
+  {
+    "mpiId": "MPI-0001-003",
+    "ubid": "UBID-0001-003",
+    "msiId": "0001",
+    "productCode": "REG-01",
+    "sku": "MIS-0001-REG-01-M",
+    "variantCode": "M",
+    "variantLabel": "M"
+  },
+  {
+    "mpiId": "MPI-0001-004",
+    "ubid": "UBID-0001-004",
+    "msiId": "0001",
+    "productCode": "REG-01",
+    "sku": "MIS-0001-REG-01-L",
+    "variantCode": "L",
+    "variantLabel": "L"
+  },
+  {
+    "mpiId": "MPI-0001-005",
+    "ubid": "UBID-0001-005",
+    "msiId": "0001",
+    "productCode": "REG-01",
+    "sku": "MIS-0001-REG-01-XL",
+    "variantCode": "XL",
+    "variantLabel": "XL"
+  },
+  {
+    "mpiId": "MPI-0001-006",
+    "ubid": "UBID-0001-006",
+    "msiId": "0001",
+    "productCode": "REG-01",
+    "sku": "MIS-0001-REG-01-2XL",
+    "variantCode": "2XL",
+    "variantLabel": "2XL"
+  },
+  {
+    "mpiId": "MPI-0001-007",
+    "ubid": "UBID-0001-007",
+    "msiId": "0001",
+    "productCode": "REG-01",
+    "sku": "MIS-0001-REG-01-3XL",
+    "variantCode": "3XL",
+    "variantLabel": "3XL"
+  },
+  {
+    "mpiId": "MPI-0001-008",
+    "ubid": "UBID-0001-008",
+    "msiId": "0001",
+    "productCode": "REG-01",
+    "sku": "MIS-0001-REG-01-4XL",
+    "variantCode": "4XL",
+    "variantLabel": "4XL"
+  },
+  {
+    "mpiId": "MPI-0001-009",
+    "ubid": "UBID-0001-009",
+    "msiId": "0001",
+    "productCode": "REG-01",
+    "sku": "MIS-0001-REG-01-5XL",
+    "variantCode": "5XL",
+    "variantLabel": "5XL"
+  },
+  {
+    "mpiId": "MPI-0001-010",
+    "ubid": "UBID-0001-010",
+    "msiId": "0001",
+    "productCode": "REG-02",
+    "sku": "MIS-0001-REG-02-XS",
+    "variantCode": "XS",
+    "variantLabel": "XS"
+  },
+  {
+    "mpiId": "MPI-0001-011",
+    "ubid": "UBID-0001-011",
+    "msiId": "0001",
+    "productCode": "REG-02",
+    "sku": "MIS-0001-REG-02-S",
+    "variantCode": "S",
+    "variantLabel": "S"
+  },
+  {
+    "mpiId": "MPI-0001-012",
+    "ubid": "UBID-0001-012",
+    "msiId": "0001",
+    "productCode": "REG-02",
+    "sku": "MIS-0001-REG-02-M",
+    "variantCode": "M",
+    "variantLabel": "M"
+  },
+  {
+    "mpiId": "MPI-0001-013",
+    "ubid": "UBID-0001-013",
+    "msiId": "0001",
+    "productCode": "REG-02",
+    "sku": "MIS-0001-REG-02-L",
+    "variantCode": "L",
+    "variantLabel": "L"
+  },
+  {
+    "mpiId": "MPI-0001-014",
+    "ubid": "UBID-0001-014",
+    "msiId": "0001",
+    "productCode": "REG-02",
+    "sku": "MIS-0001-REG-02-XL",
+    "variantCode": "XL",
+    "variantLabel": "XL"
+  },
+  {
+    "mpiId": "MPI-0001-015",
+    "ubid": "UBID-0001-015",
+    "msiId": "0001",
+    "productCode": "REG-02",
+    "sku": "MIS-0001-REG-02-2XL",
+    "variantCode": "2XL",
+    "variantLabel": "2XL"
+  },
+  {
+    "mpiId": "MPI-0001-016",
+    "ubid": "UBID-0001-016",
+    "msiId": "0001",
+    "productCode": "REG-02",
+    "sku": "MIS-0001-REG-02-3XL",
+    "variantCode": "3XL",
+    "variantLabel": "3XL"
+  },
+  {
+    "mpiId": "MPI-0001-017",
+    "ubid": "UBID-0001-017",
+    "msiId": "0001",
+    "productCode": "REG-02",
+    "sku": "MIS-0001-REG-02-4XL",
+    "variantCode": "4XL",
+    "variantLabel": "4XL"
+  },
+  {
+    "mpiId": "MPI-0001-018",
+    "ubid": "UBID-0001-018",
+    "msiId": "0001",
+    "productCode": "REG-02",
+    "sku": "MIS-0001-REG-02-5XL",
+    "variantCode": "5XL",
+    "variantLabel": "5XL"
+  },
+  {
+    "mpiId": "MPI-0001-019",
+    "ubid": "UBID-0001-019",
+    "msiId": "0001",
+    "productCode": "REG-03",
+    "sku": "MIS-0001-REG-03-XS",
+    "variantCode": "XS",
+    "variantLabel": "XS"
+  },
+  {
+    "mpiId": "MPI-0001-020",
+    "ubid": "UBID-0001-020",
+    "msiId": "0001",
+    "productCode": "REG-03",
+    "sku": "MIS-0001-REG-03-S",
+    "variantCode": "S",
+    "variantLabel": "S"
+  },
+  {
+    "mpiId": "MPI-0001-021",
+    "ubid": "UBID-0001-021",
+    "msiId": "0001",
+    "productCode": "REG-03",
+    "sku": "MIS-0001-REG-03-M",
+    "variantCode": "M",
+    "variantLabel": "M"
+  },
+  {
+    "mpiId": "MPI-0001-022",
+    "ubid": "UBID-0001-022",
+    "msiId": "0001",
+    "productCode": "REG-03",
+    "sku": "MIS-0001-REG-03-L",
+    "variantCode": "L",
+    "variantLabel": "L"
+  },
+  {
+    "mpiId": "MPI-0001-023",
+    "ubid": "UBID-0001-023",
+    "msiId": "0001",
+    "productCode": "REG-03",
+    "sku": "MIS-0001-REG-03-XL",
+    "variantCode": "XL",
+    "variantLabel": "XL"
+  },
+  {
+    "mpiId": "MPI-0001-024",
+    "ubid": "UBID-0001-024",
+    "msiId": "0001",
+    "productCode": "REG-03",
+    "sku": "MIS-0001-REG-03-2XL",
+    "variantCode": "2XL",
+    "variantLabel": "2XL"
+  },
+  {
+    "mpiId": "MPI-0001-025",
+    "ubid": "UBID-0001-025",
+    "msiId": "0001",
+    "productCode": "REG-03",
+    "sku": "MIS-0001-REG-03-3XL",
+    "variantCode": "3XL",
+    "variantLabel": "3XL"
+  },
+  {
+    "mpiId": "MPI-0001-026",
+    "ubid": "UBID-0001-026",
+    "msiId": "0001",
+    "productCode": "REG-03",
+    "sku": "MIS-0001-REG-03-4XL",
+    "variantCode": "4XL",
+    "variantLabel": "4XL"
+  },
+  {
+    "mpiId": "MPI-0001-027",
+    "ubid": "UBID-0001-027",
+    "msiId": "0001",
+    "productCode": "REG-03",
+    "sku": "MIS-0001-REG-03-5XL",
+    "variantCode": "5XL",
+    "variantLabel": "5XL"
+  },
+  {
+    "mpiId": "MPI-0001-028",
+    "ubid": "UBID-0001-028",
+    "msiId": "0001",
+    "productCode": "REG-04",
+    "sku": "MIS-0001-REG-04-STD",
+    "variantCode": "STD",
+    "variantLabel": "STD"
+  },
+  {
+    "mpiId": "MPI-0001-029",
+    "ubid": "UBID-0001-029",
+    "msiId": "0001",
+    "productCode": "REG-05",
+    "sku": "MIS-0001-REG-05-STD",
+    "variantCode": "STD",
+    "variantLabel": "STD"
+  },
+  {
+    "mpiId": "MPI-0001-030",
+    "ubid": "UBID-0001-030",
+    "msiId": "0001",
+    "productCode": "REG-06",
+    "sku": "MIS-0001-REG-06-STD",
+    "variantCode": "STD",
+    "variantLabel": "STD"
+  },
+  {
+    "mpiId": "MPI-0001-031",
+    "ubid": "UBID-0001-031",
+    "msiId": "0001",
+    "productCode": "REG-07",
+    "sku": "MIS-0001-REG-07-STD",
+    "variantCode": "STD",
+    "variantLabel": "STD"
+  },
+  {
+    "mpiId": "MPI-0001-032",
+    "ubid": "UBID-0001-032",
+    "msiId": "0001",
+    "productCode": "REG-08",
+    "sku": "MIS-0001-REG-08-XS",
+    "variantCode": "XS",
+    "variantLabel": "XS"
+  },
+  {
+    "mpiId": "MPI-0001-033",
+    "ubid": "UBID-0001-033",
+    "msiId": "0001",
+    "productCode": "REG-08",
+    "sku": "MIS-0001-REG-08-S",
+    "variantCode": "S",
+    "variantLabel": "S"
+  },
+  {
+    "mpiId": "MPI-0001-034",
+    "ubid": "UBID-0001-034",
+    "msiId": "0001",
+    "productCode": "REG-08",
+    "sku": "MIS-0001-REG-08-M",
+    "variantCode": "M",
+    "variantLabel": "M"
+  },
+  {
+    "mpiId": "MPI-0001-035",
+    "ubid": "UBID-0001-035",
+    "msiId": "0001",
+    "productCode": "REG-08",
+    "sku": "MIS-0001-REG-08-L",
+    "variantCode": "L",
+    "variantLabel": "L"
+  },
+  {
+    "mpiId": "MPI-0001-036",
+    "ubid": "UBID-0001-036",
+    "msiId": "0001",
+    "productCode": "REG-08",
+    "sku": "MIS-0001-REG-08-XL",
+    "variantCode": "XL",
+    "variantLabel": "XL"
+  },
+  {
+    "mpiId": "MPI-0001-037",
+    "ubid": "UBID-0001-037",
+    "msiId": "0001",
+    "productCode": "REG-08",
+    "sku": "MIS-0001-REG-08-2XL",
+    "variantCode": "2XL",
+    "variantLabel": "2XL"
+  },
+  {
+    "mpiId": "MPI-0001-038",
+    "ubid": "UBID-0001-038",
+    "msiId": "0001",
+    "productCode": "REG-08",
+    "sku": "MIS-0001-REG-08-3XL",
+    "variantCode": "3XL",
+    "variantLabel": "3XL"
+  },
+  {
+    "mpiId": "MPI-0001-039",
+    "ubid": "UBID-0001-039",
+    "msiId": "0001",
+    "productCode": "REG-08",
+    "sku": "MIS-0001-REG-08-4XL",
+    "variantCode": "4XL",
+    "variantLabel": "4XL"
+  },
+  {
+    "mpiId": "MPI-0001-040",
+    "ubid": "UBID-0001-040",
+    "msiId": "0001",
+    "productCode": "REG-08",
+    "sku": "MIS-0001-REG-08-5XL",
+    "variantCode": "5XL",
+    "variantLabel": "5XL"
+  },
+  {
+    "mpiId": "MPI-0002-001",
+    "ubid": "UBID-0002-001",
+    "msiId": "0002",
+    "productCode": "REG-01",
+    "sku": "MIS-0002-REG-01-XS",
+    "variantCode": "XS",
+    "variantLabel": "XS"
+  },
+  {
+    "mpiId": "MPI-0002-002",
+    "ubid": "UBID-0002-002",
+    "msiId": "0002",
+    "productCode": "REG-01",
+    "sku": "MIS-0002-REG-01-S",
+    "variantCode": "S",
+    "variantLabel": "S"
+  },
+  {
+    "mpiId": "MPI-0002-003",
+    "ubid": "UBID-0002-003",
+    "msiId": "0002",
+    "productCode": "REG-01",
+    "sku": "MIS-0002-REG-01-M",
+    "variantCode": "M",
+    "variantLabel": "M"
+  },
+  {
+    "mpiId": "MPI-0002-004",
+    "ubid": "UBID-0002-004",
+    "msiId": "0002",
+    "productCode": "REG-01",
+    "sku": "MIS-0002-REG-01-L",
+    "variantCode": "L",
+    "variantLabel": "L"
+  },
+  {
+    "mpiId": "MPI-0002-005",
+    "ubid": "UBID-0002-005",
+    "msiId": "0002",
+    "productCode": "REG-01",
+    "sku": "MIS-0002-REG-01-XL",
+    "variantCode": "XL",
+    "variantLabel": "XL"
+  },
+  {
+    "mpiId": "MPI-0002-006",
+    "ubid": "UBID-0002-006",
+    "msiId": "0002",
+    "productCode": "REG-01",
+    "sku": "MIS-0002-REG-01-2XL",
+    "variantCode": "2XL",
+    "variantLabel": "2XL"
+  },
+  {
+    "mpiId": "MPI-0002-007",
+    "ubid": "UBID-0002-007",
+    "msiId": "0002",
+    "productCode": "REG-01",
+    "sku": "MIS-0002-REG-01-3XL",
+    "variantCode": "3XL",
+    "variantLabel": "3XL"
+  },
+  {
+    "mpiId": "MPI-0002-008",
+    "ubid": "UBID-0002-008",
+    "msiId": "0002",
+    "productCode": "REG-01",
+    "sku": "MIS-0002-REG-01-4XL",
+    "variantCode": "4XL",
+    "variantLabel": "4XL"
+  },
+  {
+    "mpiId": "MPI-0002-009",
+    "ubid": "UBID-0002-009",
+    "msiId": "0002",
+    "productCode": "REG-01",
+    "sku": "MIS-0002-REG-01-5XL",
+    "variantCode": "5XL",
+    "variantLabel": "5XL"
+  },
+  {
+    "mpiId": "MPI-0002-010",
+    "ubid": "UBID-0002-010",
+    "msiId": "0002",
+    "productCode": "REG-02",
+    "sku": "MIS-0002-REG-02-XS",
+    "variantCode": "XS",
+    "variantLabel": "XS"
+  },
+  {
+    "mpiId": "MPI-0002-011",
+    "ubid": "UBID-0002-011",
+    "msiId": "0002",
+    "productCode": "REG-02",
+    "sku": "MIS-0002-REG-02-S",
+    "variantCode": "S",
+    "variantLabel": "S"
+  },
+  {
+    "mpiId": "MPI-0002-012",
+    "ubid": "UBID-0002-012",
+    "msiId": "0002",
+    "productCode": "REG-02",
+    "sku": "MIS-0002-REG-02-M",
+    "variantCode": "M",
+    "variantLabel": "M"
+  },
+  {
+    "mpiId": "MPI-0002-013",
+    "ubid": "UBID-0002-013",
+    "msiId": "0002",
+    "productCode": "REG-02",
+    "sku": "MIS-0002-REG-02-L",
+    "variantCode": "L",
+    "variantLabel": "L"
+  },
+  {
+    "mpiId": "MPI-0002-014",
+    "ubid": "UBID-0002-014",
+    "msiId": "0002",
+    "productCode": "REG-02",
+    "sku": "MIS-0002-REG-02-XL",
+    "variantCode": "XL",
+    "variantLabel": "XL"
+  },
+  {
+    "mpiId": "MPI-0002-015",
+    "ubid": "UBID-0002-015",
+    "msiId": "0002",
+    "productCode": "REG-02",
+    "sku": "MIS-0002-REG-02-2XL",
+    "variantCode": "2XL",
+    "variantLabel": "2XL"
+  },
+  {
+    "mpiId": "MPI-0002-016",
+    "ubid": "UBID-0002-016",
+    "msiId": "0002",
+    "productCode": "REG-02",
+    "sku": "MIS-0002-REG-02-3XL",
+    "variantCode": "3XL",
+    "variantLabel": "3XL"
+  },
+  {
+    "mpiId": "MPI-0002-017",
+    "ubid": "UBID-0002-017",
+    "msiId": "0002",
+    "productCode": "REG-02",
+    "sku": "MIS-0002-REG-02-4XL",
+    "variantCode": "4XL",
+    "variantLabel": "4XL"
+  },
+  {
+    "mpiId": "MPI-0002-018",
+    "ubid": "UBID-0002-018",
+    "msiId": "0002",
+    "productCode": "REG-02",
+    "sku": "MIS-0002-REG-02-5XL",
+    "variantCode": "5XL",
+    "variantLabel": "5XL"
+  },
+  {
+    "mpiId": "MPI-0002-019",
+    "ubid": "UBID-0002-019",
+    "msiId": "0002",
+    "productCode": "REG-03",
+    "sku": "MIS-0002-REG-03-XS",
+    "variantCode": "XS",
+    "variantLabel": "XS"
+  },
+  {
+    "mpiId": "MPI-0002-020",
+    "ubid": "UBID-0002-020",
+    "msiId": "0002",
+    "productCode": "REG-03",
+    "sku": "MIS-0002-REG-03-S",
+    "variantCode": "S",
+    "variantLabel": "S"
+  },
+  {
+    "mpiId": "MPI-0002-021",
+    "ubid": "UBID-0002-021",
+    "msiId": "0002",
+    "productCode": "REG-03",
+    "sku": "MIS-0002-REG-03-M",
+    "variantCode": "M",
+    "variantLabel": "M"
+  },
+  {
+    "mpiId": "MPI-0002-022",
+    "ubid": "UBID-0002-022",
+    "msiId": "0002",
+    "productCode": "REG-03",
+    "sku": "MIS-0002-REG-03-L",
+    "variantCode": "L",
+    "variantLabel": "L"
+  },
+  {
+    "mpiId": "MPI-0002-023",
+    "ubid": "UBID-0002-023",
+    "msiId": "0002",
+    "productCode": "REG-03",
+    "sku": "MIS-0002-REG-03-XL",
+    "variantCode": "XL",
+    "variantLabel": "XL"
+  },
+  {
+    "mpiId": "MPI-0002-024",
+    "ubid": "UBID-0002-024",
+    "msiId": "0002",
+    "productCode": "REG-03",
+    "sku": "MIS-0002-REG-03-2XL",
+    "variantCode": "2XL",
+    "variantLabel": "2XL"
+  },
+  {
+    "mpiId": "MPI-0002-025",
+    "ubid": "UBID-0002-025",
+    "msiId": "0002",
+    "productCode": "REG-03",
+    "sku": "MIS-0002-REG-03-3XL",
+    "variantCode": "3XL",
+    "variantLabel": "3XL"
+  },
+  {
+    "mpiId": "MPI-0002-026",
+    "ubid": "UBID-0002-026",
+    "msiId": "0002",
+    "productCode": "REG-03",
+    "sku": "MIS-0002-REG-03-4XL",
+    "variantCode": "4XL",
+    "variantLabel": "4XL"
+  },
+  {
+    "mpiId": "MPI-0002-027",
+    "ubid": "UBID-0002-027",
+    "msiId": "0002",
+    "productCode": "REG-03",
+    "sku": "MIS-0002-REG-03-5XL",
+    "variantCode": "5XL",
+    "variantLabel": "5XL"
+  },
+  {
+    "mpiId": "MPI-0002-028",
+    "ubid": "UBID-0002-028",
+    "msiId": "0002",
+    "productCode": "REG-04",
+    "sku": "MIS-0002-REG-04-STD",
+    "variantCode": "STD",
+    "variantLabel": "STD"
+  },
+  {
+    "mpiId": "MPI-0002-029",
+    "ubid": "UBID-0002-029",
+    "msiId": "0002",
+    "productCode": "REG-05",
+    "sku": "MIS-0002-REG-05-STD",
+    "variantCode": "STD",
+    "variantLabel": "STD"
+  },
+  {
+    "mpiId": "MPI-0002-030",
+    "ubid": "UBID-0002-030",
+    "msiId": "0002",
+    "productCode": "REG-06",
+    "sku": "MIS-0002-REG-06-STD",
+    "variantCode": "STD",
+    "variantLabel": "STD"
+  },
+  {
+    "mpiId": "MPI-0002-031",
+    "ubid": "UBID-0002-031",
+    "msiId": "0002",
+    "productCode": "REG-07",
+    "sku": "MIS-0002-REG-07-STD",
+    "variantCode": "STD",
+    "variantLabel": "STD"
+  },
+  {
+    "mpiId": "MPI-0002-032",
+    "ubid": "UBID-0002-032",
+    "msiId": "0002",
+    "productCode": "REG-08",
+    "sku": "MIS-0002-REG-08-XS",
+    "variantCode": "XS",
+    "variantLabel": "XS"
+  },
+  {
+    "mpiId": "MPI-0002-033",
+    "ubid": "UBID-0002-033",
+    "msiId": "0002",
+    "productCode": "REG-08",
+    "sku": "MIS-0002-REG-08-S",
+    "variantCode": "S",
+    "variantLabel": "S"
+  },
+  {
+    "mpiId": "MPI-0002-034",
+    "ubid": "UBID-0002-034",
+    "msiId": "0002",
+    "productCode": "REG-08",
+    "sku": "MIS-0002-REG-08-M",
+    "variantCode": "M",
+    "variantLabel": "M"
+  },
+  {
+    "mpiId": "MPI-0002-035",
+    "ubid": "UBID-0002-035",
+    "msiId": "0002",
+    "productCode": "REG-08",
+    "sku": "MIS-0002-REG-08-L",
+    "variantCode": "L",
+    "variantLabel": "L"
+  },
+  {
+    "mpiId": "MPI-0002-036",
+    "ubid": "UBID-0002-036",
+    "msiId": "0002",
+    "productCode": "REG-08",
+    "sku": "MIS-0002-REG-08-XL",
+    "variantCode": "XL",
+    "variantLabel": "XL"
+  },
+  {
+    "mpiId": "MPI-0002-037",
+    "ubid": "UBID-0002-037",
+    "msiId": "0002",
+    "productCode": "REG-08",
+    "sku": "MIS-0002-REG-08-2XL",
+    "variantCode": "2XL",
+    "variantLabel": "2XL"
+  },
+  {
+    "mpiId": "MPI-0002-038",
+    "ubid": "UBID-0002-038",
+    "msiId": "0002",
+    "productCode": "REG-08",
+    "sku": "MIS-0002-REG-08-3XL",
+    "variantCode": "3XL",
+    "variantLabel": "3XL"
+  },
+  {
+    "mpiId": "MPI-0002-039",
+    "ubid": "UBID-0002-039",
+    "msiId": "0002",
+    "productCode": "REG-08",
+    "sku": "MIS-0002-REG-08-4XL",
+    "variantCode": "4XL",
+    "variantLabel": "4XL"
+  },
+  {
+    "mpiId": "MPI-0002-040",
+    "ubid": "UBID-0002-040",
+    "msiId": "0002",
+    "productCode": "REG-08",
+    "sku": "MIS-0002-REG-08-5XL",
+    "variantCode": "5XL",
+    "variantLabel": "5XL"
+  },
+  {
+    "mpiId": "MPI-0003-001",
+    "ubid": "UBID-0003-001",
+    "msiId": "0003",
+    "productCode": "REG-01",
+    "sku": "MIS-0003-REG-01-XS",
+    "variantCode": "XS",
+    "variantLabel": "XS"
+  },
+  {
+    "mpiId": "MPI-0003-002",
+    "ubid": "UBID-0003-002",
+    "msiId": "0003",
+    "productCode": "REG-01",
+    "sku": "MIS-0003-REG-01-S",
+    "variantCode": "S",
+    "variantLabel": "S"
+  },
+  {
+    "mpiId": "MPI-0003-003",
+    "ubid": "UBID-0003-003",
+    "msiId": "0003",
+    "productCode": "REG-01",
+    "sku": "MIS-0003-REG-01-M",
+    "variantCode": "M",
+    "variantLabel": "M"
+  },
+  {
+    "mpiId": "MPI-0003-004",
+    "ubid": "UBID-0003-004",
+    "msiId": "0003",
+    "productCode": "REG-01",
+    "sku": "MIS-0003-REG-01-L",
+    "variantCode": "L",
+    "variantLabel": "L"
+  },
+  {
+    "mpiId": "MPI-0003-005",
+    "ubid": "UBID-0003-005",
+    "msiId": "0003",
+    "productCode": "REG-01",
+    "sku": "MIS-0003-REG-01-XL",
+    "variantCode": "XL",
+    "variantLabel": "XL"
+  },
+  {
+    "mpiId": "MPI-0003-006",
+    "ubid": "UBID-0003-006",
+    "msiId": "0003",
+    "productCode": "REG-01",
+    "sku": "MIS-0003-REG-01-2XL",
+    "variantCode": "2XL",
+    "variantLabel": "2XL"
+  },
+  {
+    "mpiId": "MPI-0003-007",
+    "ubid": "UBID-0003-007",
+    "msiId": "0003",
+    "productCode": "REG-01",
+    "sku": "MIS-0003-REG-01-3XL",
+    "variantCode": "3XL",
+    "variantLabel": "3XL"
+  },
+  {
+    "mpiId": "MPI-0003-008",
+    "ubid": "UBID-0003-008",
+    "msiId": "0003",
+    "productCode": "REG-01",
+    "sku": "MIS-0003-REG-01-4XL",
+    "variantCode": "4XL",
+    "variantLabel": "4XL"
+  },
+  {
+    "mpiId": "MPI-0003-009",
+    "ubid": "UBID-0003-009",
+    "msiId": "0003",
+    "productCode": "REG-01",
+    "sku": "MIS-0003-REG-01-5XL",
+    "variantCode": "5XL",
+    "variantLabel": "5XL"
+  },
+  {
+    "mpiId": "MPI-0003-010",
+    "ubid": "UBID-0003-010",
+    "msiId": "0003",
+    "productCode": "REG-02",
+    "sku": "MIS-0003-REG-02-XS",
+    "variantCode": "XS",
+    "variantLabel": "XS"
+  },
+  {
+    "mpiId": "MPI-0003-011",
+    "ubid": "UBID-0003-011",
+    "msiId": "0003",
+    "productCode": "REG-02",
+    "sku": "MIS-0003-REG-02-S",
+    "variantCode": "S",
+    "variantLabel": "S"
+  },
+  {
+    "mpiId": "MPI-0003-012",
+    "ubid": "UBID-0003-012",
+    "msiId": "0003",
+    "productCode": "REG-02",
+    "sku": "MIS-0003-REG-02-M",
+    "variantCode": "M",
+    "variantLabel": "M"
+  },
+  {
+    "mpiId": "MPI-0003-013",
+    "ubid": "UBID-0003-013",
+    "msiId": "0003",
+    "productCode": "REG-02",
+    "sku": "MIS-0003-REG-02-L",
+    "variantCode": "L",
+    "variantLabel": "L"
+  },
+  {
+    "mpiId": "MPI-0003-014",
+    "ubid": "UBID-0003-014",
+    "msiId": "0003",
+    "productCode": "REG-02",
+    "sku": "MIS-0003-REG-02-XL",
+    "variantCode": "XL",
+    "variantLabel": "XL"
+  },
+  {
+    "mpiId": "MPI-0003-015",
+    "ubid": "UBID-0003-015",
+    "msiId": "0003",
+    "productCode": "REG-02",
+    "sku": "MIS-0003-REG-02-2XL",
+    "variantCode": "2XL",
+    "variantLabel": "2XL"
+  },
+  {
+    "mpiId": "MPI-0003-016",
+    "ubid": "UBID-0003-016",
+    "msiId": "0003",
+    "productCode": "REG-02",
+    "sku": "MIS-0003-REG-02-3XL",
+    "variantCode": "3XL",
+    "variantLabel": "3XL"
+  },
+  {
+    "mpiId": "MPI-0003-017",
+    "ubid": "UBID-0003-017",
+    "msiId": "0003",
+    "productCode": "REG-02",
+    "sku": "MIS-0003-REG-02-4XL",
+    "variantCode": "4XL",
+    "variantLabel": "4XL"
+  },
+  {
+    "mpiId": "MPI-0003-018",
+    "ubid": "UBID-0003-018",
+    "msiId": "0003",
+    "productCode": "REG-02",
+    "sku": "MIS-0003-REG-02-5XL",
+    "variantCode": "5XL",
+    "variantLabel": "5XL"
+  },
+  {
+    "mpiId": "MPI-0003-019",
+    "ubid": "UBID-0003-019",
+    "msiId": "0003",
+    "productCode": "REG-03",
+    "sku": "MIS-0003-REG-03-XS",
+    "variantCode": "XS",
+    "variantLabel": "XS"
+  },
+  {
+    "mpiId": "MPI-0003-020",
+    "ubid": "UBID-0003-020",
+    "msiId": "0003",
+    "productCode": "REG-03",
+    "sku": "MIS-0003-REG-03-S",
+    "variantCode": "S",
+    "variantLabel": "S"
+  },
+  {
+    "mpiId": "MPI-0003-021",
+    "ubid": "UBID-0003-021",
+    "msiId": "0003",
+    "productCode": "REG-03",
+    "sku": "MIS-0003-REG-03-M",
+    "variantCode": "M",
+    "variantLabel": "M"
+  },
+  {
+    "mpiId": "MPI-0003-022",
+    "ubid": "UBID-0003-022",
+    "msiId": "0003",
+    "productCode": "REG-03",
+    "sku": "MIS-0003-REG-03-L",
+    "variantCode": "L",
+    "variantLabel": "L"
+  },
+  {
+    "mpiId": "MPI-0003-023",
+    "ubid": "UBID-0003-023",
+    "msiId": "0003",
+    "productCode": "REG-03",
+    "sku": "MIS-0003-REG-03-XL",
+    "variantCode": "XL",
+    "variantLabel": "XL"
+  },
+  {
+    "mpiId": "MPI-0003-024",
+    "ubid": "UBID-0003-024",
+    "msiId": "0003",
+    "productCode": "REG-03",
+    "sku": "MIS-0003-REG-03-2XL",
+    "variantCode": "2XL",
+    "variantLabel": "2XL"
+  },
+  {
+    "mpiId": "MPI-0003-025",
+    "ubid": "UBID-0003-025",
+    "msiId": "0003",
+    "productCode": "REG-03",
+    "sku": "MIS-0003-REG-03-3XL",
+    "variantCode": "3XL",
+    "variantLabel": "3XL"
+  },
+  {
+    "mpiId": "MPI-0003-026",
+    "ubid": "UBID-0003-026",
+    "msiId": "0003",
+    "productCode": "REG-03",
+    "sku": "MIS-0003-REG-03-4XL",
+    "variantCode": "4XL",
+    "variantLabel": "4XL"
+  },
+  {
+    "mpiId": "MPI-0003-027",
+    "ubid": "UBID-0003-027",
+    "msiId": "0003",
+    "productCode": "REG-03",
+    "sku": "MIS-0003-REG-03-5XL",
+    "variantCode": "5XL",
+    "variantLabel": "5XL"
+  },
+  {
+    "mpiId": "MPI-0003-028",
+    "ubid": "UBID-0003-028",
+    "msiId": "0003",
+    "productCode": "REG-04",
+    "sku": "MIS-0003-REG-04-STD",
+    "variantCode": "STD",
+    "variantLabel": "STD"
+  },
+  {
+    "mpiId": "MPI-0003-029",
+    "ubid": "UBID-0003-029",
+    "msiId": "0003",
+    "productCode": "REG-05",
+    "sku": "MIS-0003-REG-05-STD",
+    "variantCode": "STD",
+    "variantLabel": "STD"
+  },
+  {
+    "mpiId": "MPI-0003-030",
+    "ubid": "UBID-0003-030",
+    "msiId": "0003",
+    "productCode": "REG-06",
+    "sku": "MIS-0003-REG-06-STD",
+    "variantCode": "STD",
+    "variantLabel": "STD"
+  },
+  {
+    "mpiId": "MPI-0003-031",
+    "ubid": "UBID-0003-031",
+    "msiId": "0003",
+    "productCode": "REG-07",
+    "sku": "MIS-0003-REG-07-STD",
+    "variantCode": "STD",
+    "variantLabel": "STD"
+  },
+  {
+    "mpiId": "MPI-0003-032",
+    "ubid": "UBID-0003-032",
+    "msiId": "0003",
+    "productCode": "REG-08",
+    "sku": "MIS-0003-REG-08-XS",
+    "variantCode": "XS",
+    "variantLabel": "XS"
+  },
+  {
+    "mpiId": "MPI-0003-033",
+    "ubid": "UBID-0003-033",
+    "msiId": "0003",
+    "productCode": "REG-08",
+    "sku": "MIS-0003-REG-08-S",
+    "variantCode": "S",
+    "variantLabel": "S"
+  },
+  {
+    "mpiId": "MPI-0003-034",
+    "ubid": "UBID-0003-034",
+    "msiId": "0003",
+    "productCode": "REG-08",
+    "sku": "MIS-0003-REG-08-M",
+    "variantCode": "M",
+    "variantLabel": "M"
+  },
+  {
+    "mpiId": "MPI-0003-035",
+    "ubid": "UBID-0003-035",
+    "msiId": "0003",
+    "productCode": "REG-08",
+    "sku": "MIS-0003-REG-08-L",
+    "variantCode": "L",
+    "variantLabel": "L"
+  },
+  {
+    "mpiId": "MPI-0003-036",
+    "ubid": "UBID-0003-036",
+    "msiId": "0003",
+    "productCode": "REG-08",
+    "sku": "MIS-0003-REG-08-XL",
+    "variantCode": "XL",
+    "variantLabel": "XL"
+  },
+  {
+    "mpiId": "MPI-0003-037",
+    "ubid": "UBID-0003-037",
+    "msiId": "0003",
+    "productCode": "REG-08",
+    "sku": "MIS-0003-REG-08-2XL",
+    "variantCode": "2XL",
+    "variantLabel": "2XL"
+  },
+  {
+    "mpiId": "MPI-0003-038",
+    "ubid": "UBID-0003-038",
+    "msiId": "0003",
+    "productCode": "REG-08",
+    "sku": "MIS-0003-REG-08-3XL",
+    "variantCode": "3XL",
+    "variantLabel": "3XL"
+  },
+  {
+    "mpiId": "MPI-0003-039",
+    "ubid": "UBID-0003-039",
+    "msiId": "0003",
+    "productCode": "REG-08",
+    "sku": "MIS-0003-REG-08-4XL",
+    "variantCode": "4XL",
+    "variantLabel": "4XL"
+  },
+  {
+    "mpiId": "MPI-0003-040",
+    "ubid": "UBID-0003-040",
+    "msiId": "0003",
+    "productCode": "REG-08",
+    "sku": "MIS-0003-REG-08-5XL",
+    "variantCode": "5XL",
+    "variantLabel": "5XL"
+  }
+]

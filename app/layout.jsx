@@ -1,10 +1,14 @@
 'use client';
 
 import React from 'react';
+import { usePathname } from 'next/navigation';
 import SiteLayout from '../src/components/layout/Layout.jsx';
 import '../src/styles/globals.css';
 
 export default function RootLayout({ children }) {
+  const pathname = usePathname();
+  const isAdmin = pathname?.startsWith('/admin');
+
   return (
     <html lang="en">
       <head>
@@ -14,10 +18,8 @@ export default function RootLayout({ children }) {
         />
       </head>
       <body>
-        <SiteLayout>{children}</SiteLayout>
+        {isAdmin ? children : <SiteLayout>{children}</SiteLayout>}
       </body>
     </html>
   );
 }
-
-

@@ -1,0 +1,257 @@
+[
+  {
+    "msiId": "0001",
+    "name": "Regalia Supplier 0001",
+    "allowedRegCodes": [
+      "REG-01",
+      "REG-02",
+      "REG-03",
+      "REG-04",
+      "REG-05",
+      "REG-06",
+      "REG-07",
+      "REG-08"
+    ],
+    "allowedMaterials": [
+      "Polyester",
+      "Matte Polyester",
+      "Recycled PET"
+    ],
+    "variantLadderRules": {
+      "REG-01": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL"
+      ],
+      "REG-02": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL"
+      ],
+      "REG-03": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL"
+      ],
+      "REG-04": [
+        "STD"
+      ],
+      "REG-05": [
+        "STD"
+      ],
+      "REG-06": [
+        "STD"
+      ],
+      "REG-07": [
+        "STD"
+      ],
+      "REG-08": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL"
+      ]
+    },
+    "skuPattern": "MIS-{MSI_ID}-REG-{XX}-{VariantCode}",
+    "ubidCount": 40,
+    "capabilities": [
+      "Gown manufacturing",
+      "Accessory assembly",
+      "Bulk packaging"
+    ],
+    "status": "ACTIVE"
+  },
+  {
+    "msiId": "0002",
+    "name": "Regalia Supplier 0002",
+    "allowedRegCodes": [
+      "REG-01",
+      "REG-02",
+      "REG-03",
+      "REG-04",
+      "REG-05",
+      "REG-06",
+      "REG-07",
+      "REG-08"
+    ],
+    "allowedMaterials": [
+      "Polyester",
+      "Satin",
+      "Matte Polyester"
+    ],
+    "variantLadderRules": {
+      "REG-01": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL"
+      ],
+      "REG-02": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL"
+      ],
+      "REG-03": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL"
+      ],
+      "REG-04": [
+        "STD"
+      ],
+      "REG-05": [
+        "STD"
+      ],
+      "REG-06": [
+        "STD"
+      ],
+      "REG-07": [
+        "STD"
+      ],
+      "REG-08": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL"
+      ]
+    },
+    "skuPattern": "MIS-{MSI_ID}-REG-{XX}-{VariantCode}",
+    "ubidCount": 40,
+    "capabilities": [
+      "Gown manufacturing",
+      "Hood lining",
+      "Custom embroidery"
+    ],
+    "status": "ACTIVE"
+  },
+  {
+    "msiId": "0003",
+    "name": "Regalia Supplier 0003",
+    "allowedRegCodes": [
+      "REG-01",
+      "REG-02",
+      "REG-03",
+      "REG-04",
+      "REG-05",
+      "REG-06",
+      "REG-07",
+      "REG-08"
+    ],
+    "allowedMaterials": [
+      "Polyester",
+      "Matte Polyester",
+      "Velvet"
+    ],
+    "variantLadderRules": {
+      "REG-01": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL"
+      ],
+      "REG-02": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL"
+      ],
+      "REG-03": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL"
+      ],
+      "REG-04": [
+        "STD"
+      ],
+      "REG-05": [
+        "STD"
+      ],
+      "REG-06": [
+        "STD"
+      ],
+      "REG-07": [
+        "STD"
+      ],
+      "REG-08": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL"
+      ]
+    },
+    "skuPattern": "MIS-{MSI_ID}-REG-{XX}-{VariantCode}",
+    "ubidCount": 40,
+    "capabilities": [
+      "Gown manufacturing",
+      "Accessory assembly",
+      "International shipping"
+    ],
+    "status": "ACTIVE"
+  }
+]

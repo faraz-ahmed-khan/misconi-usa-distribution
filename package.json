@@ -4,10 +4,16 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "next dev",
+    "dev": "next dev --webpack",
     "build": "next build",
     "preview": "next start",
-    "start": "next start"
+    "start": "next start",
+    "intake:seed": "node scripts/run-intake-validation.mjs --write-seed",
+    "intake:validate": "node scripts/run-intake-validation.mjs",
+    "vault:status": "node scripts/run-vault.mjs status",
+    "vault:submit": "node scripts/run-vault.mjs submit",
+    "vault:approve": "node scripts/run-vault.mjs approve",
+    "vault:promote": "node scripts/run-vault.mjs promote"
   },
   "dependencies": {
     "framer-motion": "^11.x",

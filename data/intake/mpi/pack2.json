@@ -1,0 +1,1082 @@
+[
+  {
+    "mpiId": "MPI-0001-001",
+    "ubid": "UBID-0001-001",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Bachelor Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-01;Bachelor Gown;XS"
+  },
+  {
+    "mpiId": "MPI-0001-002",
+    "ubid": "UBID-0001-002",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Bachelor Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-01;Bachelor Gown;S"
+  },
+  {
+    "mpiId": "MPI-0001-003",
+    "ubid": "UBID-0001-003",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Bachelor Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-01;Bachelor Gown;M"
+  },
+  {
+    "mpiId": "MPI-0001-004",
+    "ubid": "UBID-0001-004",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Bachelor Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-01;Bachelor Gown;L"
+  },
+  {
+    "mpiId": "MPI-0001-005",
+    "ubid": "UBID-0001-005",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Bachelor Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-01;Bachelor Gown;XL"
+  },
+  {
+    "mpiId": "MPI-0001-006",
+    "ubid": "UBID-0001-006",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Bachelor Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-01;Bachelor Gown;2XL"
+  },
+  {
+    "mpiId": "MPI-0001-007",
+    "ubid": "UBID-0001-007",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Bachelor Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-01;Bachelor Gown;3XL"
+  },
+  {
+    "mpiId": "MPI-0001-008",
+    "ubid": "UBID-0001-008",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Bachelor Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-01;Bachelor Gown;4XL"
+  },
+  {
+    "mpiId": "MPI-0001-009",
+    "ubid": "UBID-0001-009",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Bachelor Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-01;Bachelor Gown;5XL"
+  },
+  {
+    "mpiId": "MPI-0001-010",
+    "ubid": "UBID-0001-010",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Master Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-02;Master Gown;XS"
+  },
+  {
+    "mpiId": "MPI-0001-011",
+    "ubid": "UBID-0001-011",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Master Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-02;Master Gown;S"
+  },
+  {
+    "mpiId": "MPI-0001-012",
+    "ubid": "UBID-0001-012",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Master Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-02;Master Gown;M"
+  },
+  {
+    "mpiId": "MPI-0001-013",
+    "ubid": "UBID-0001-013",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Master Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-02;Master Gown;L"
+  },
+  {
+    "mpiId": "MPI-0001-014",
+    "ubid": "UBID-0001-014",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Master Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-02;Master Gown;XL"
+  },
+  {
+    "mpiId": "MPI-0001-015",
+    "ubid": "UBID-0001-015",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Master Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-02;Master Gown;2XL"
+  },
+  {
+    "mpiId": "MPI-0001-016",
+    "ubid": "UBID-0001-016",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Master Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-02;Master Gown;3XL"
+  },
+  {
+    "mpiId": "MPI-0001-017",
+    "ubid": "UBID-0001-017",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Master Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-02;Master Gown;4XL"
+  },
+  {
+    "mpiId": "MPI-0001-018",
+    "ubid": "UBID-0001-018",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Master Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-02;Master Gown;5XL"
+  },
+  {
+    "mpiId": "MPI-0001-019",
+    "ubid": "UBID-0001-019",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Doctoral Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-03;Doctoral Gown;XS"
+  },
+  {
+    "mpiId": "MPI-0001-020",
+    "ubid": "UBID-0001-020",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Doctoral Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-03;Doctoral Gown;S"
+  },
+  {
+    "mpiId": "MPI-0001-021",
+    "ubid": "UBID-0001-021",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Doctoral Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-03;Doctoral Gown;M"
+  },
+  {
+    "mpiId": "MPI-0001-022",
+    "ubid": "UBID-0001-022",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Doctoral Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-03;Doctoral Gown;L"
+  },
+  {
+    "mpiId": "MPI-0001-023",
+    "ubid": "UBID-0001-023",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Doctoral Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-03;Doctoral Gown;XL"
+  },
+  {
+    "mpiId": "MPI-0001-024",
+    "ubid": "UBID-0001-024",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Doctoral Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-03;Doctoral Gown;2XL"
+  },
+  {
+    "mpiId": "MPI-0001-025",
+    "ubid": "UBID-0001-025",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Doctoral Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-03;Doctoral Gown;3XL"
+  },
+  {
+    "mpiId": "MPI-0001-026",
+    "ubid": "UBID-0001-026",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Doctoral Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-03;Doctoral Gown;4XL"
+  },
+  {
+    "mpiId": "MPI-0001-027",
+    "ubid": "UBID-0001-027",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Doctoral Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-03;Doctoral Gown;5XL"
+  },
+  {
+    "mpiId": "MPI-0001-028",
+    "ubid": "UBID-0001-028",
+    "categoryGroup": "Regalia",
+    "category": "Academic Accessories",
+    "subcategory": "Tassel",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-04;Tassel;STD"
+  },
+  {
+    "mpiId": "MPI-0001-029",
+    "ubid": "UBID-0001-029",
+    "categoryGroup": "Regalia",
+    "category": "Academic Accessories",
+    "subcategory": "Hood",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-05;Hood;STD"
+  },
+  {
+    "mpiId": "MPI-0001-030",
+    "ubid": "UBID-0001-030",
+    "categoryGroup": "Regalia",
+    "category": "Academic Accessories",
+    "subcategory": "Cap",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-06;Cap;STD"
+  },
+  {
+    "mpiId": "MPI-0001-031",
+    "ubid": "UBID-0001-031",
+    "categoryGroup": "Regalia",
+    "category": "Academic Accessories",
+    "subcategory": "Stole",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-07;Stole;STD"
+  },
+  {
+    "mpiId": "MPI-0001-032",
+    "ubid": "UBID-0001-032",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Doctoral Tam",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-08;Doctoral Tam;XS"
+  },
+  {
+    "mpiId": "MPI-0001-033",
+    "ubid": "UBID-0001-033",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Doctoral Tam",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-08;Doctoral Tam;S"
+  },
+  {
+    "mpiId": "MPI-0001-034",
+    "ubid": "UBID-0001-034",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Doctoral Tam",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-08;Doctoral Tam;M"
+  },
+  {
+    "mpiId": "MPI-0001-035",
+    "ubid": "UBID-0001-035",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Doctoral Tam",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-08;Doctoral Tam;L"
+  },
+  {
+    "mpiId": "MPI-0001-036",
+    "ubid": "UBID-0001-036",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Doctoral Tam",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-08;Doctoral Tam;XL"
+  },
+  {
+    "mpiId": "MPI-0001-037",
+    "ubid": "UBID-0001-037",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Doctoral Tam",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-08;Doctoral Tam;2XL"
+  },
+  {
+    "mpiId": "MPI-0001-038",
+    "ubid": "UBID-0001-038",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Doctoral Tam",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-08;Doctoral Tam;3XL"
+  },
+  {
+    "mpiId": "MPI-0001-039",
+    "ubid": "UBID-0001-039",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Doctoral Tam",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-08;Doctoral Tam;4XL"
+  },
+  {
+    "mpiId": "MPI-0001-040",
+    "ubid": "UBID-0001-040",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Doctoral Tam",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-08;Doctoral Tam;5XL"
+  },
+  {
+    "mpiId": "MPI-0002-001",
+    "ubid": "UBID-0002-001",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Bachelor Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-01;Bachelor Gown;XS"
+  },
+  {
+    "mpiId": "MPI-0002-002",
+    "ubid": "UBID-0002-002",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Bachelor Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-01;Bachelor Gown;S"
+  },
+  {
+    "mpiId": "MPI-0002-003",
+    "ubid": "UBID-0002-003",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Bachelor Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-01;Bachelor Gown;M"
+  },
+  {
+    "mpiId": "MPI-0002-004",
+    "ubid": "UBID-0002-004",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Bachelor Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-01;Bachelor Gown;L"
+  },
+  {
+    "mpiId": "MPI-0002-005",
+    "ubid": "UBID-0002-005",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Bachelor Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-01;Bachelor Gown;XL"
+  },
+  {
+    "mpiId": "MPI-0002-006",
+    "ubid": "UBID-0002-006",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Bachelor Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-01;Bachelor Gown;2XL"
+  },
+  {
+    "mpiId": "MPI-0002-007",
+    "ubid": "UBID-0002-007",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Bachelor Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-01;Bachelor Gown;3XL"
+  },
+  {
+    "mpiId": "MPI-0002-008",
+    "ubid": "UBID-0002-008",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Bachelor Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-01;Bachelor Gown;4XL"
+  },
+  {
+    "mpiId": "MPI-0002-009",
+    "ubid": "UBID-0002-009",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Bachelor Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-01;Bachelor Gown;5XL"
+  },
+  {
+    "mpiId": "MPI-0002-010",
+    "ubid": "UBID-0002-010",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Master Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-02;Master Gown;XS"
+  },
+  {
+    "mpiId": "MPI-0002-011",
+    "ubid": "UBID-0002-011",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Master Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-02;Master Gown;S"
+  },
+  {
+    "mpiId": "MPI-0002-012",
+    "ubid": "UBID-0002-012",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Master Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-02;Master Gown;M"
+  },
+  {
+    "mpiId": "MPI-0002-013",
+    "ubid": "UBID-0002-013",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Master Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-02;Master Gown;L"
+  },
+  {
+    "mpiId": "MPI-0002-014",
+    "ubid": "UBID-0002-014",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Master Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-02;Master Gown;XL"
+  },
+  {
+    "mpiId": "MPI-0002-015",
+    "ubid": "UBID-0002-015",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Master Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-02;Master Gown;2XL"
+  },
+  {
+    "mpiId": "MPI-0002-016",
+    "ubid": "UBID-0002-016",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Master Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-02;Master Gown;3XL"
+  },
+  {
+    "mpiId": "MPI-0002-017",
+    "ubid": "UBID-0002-017",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Master Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-02;Master Gown;4XL"
+  },
+  {
+    "mpiId": "MPI-0002-018",
+    "ubid": "UBID-0002-018",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Master Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-02;Master Gown;5XL"
+  },
+  {
+    "mpiId": "MPI-0002-019",
+    "ubid": "UBID-0002-019",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Doctoral Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-03;Doctoral Gown;XS"
+  },
+  {
+    "mpiId": "MPI-0002-020",
+    "ubid": "UBID-0002-020",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Doctoral Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-03;Doctoral Gown;S"
+  },
+  {
+    "mpiId": "MPI-0002-021",
+    "ubid": "UBID-0002-021",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Doctoral Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-03;Doctoral Gown;M"
+  },
+  {
+    "mpiId": "MPI-0002-022",
+    "ubid": "UBID-0002-022",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Doctoral Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-03;Doctoral Gown;L"
+  },
+  {
+    "mpiId": "MPI-0002-023",
+    "ubid": "UBID-0002-023",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Doctoral Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-03;Doctoral Gown;XL"
+  },
+  {
+    "mpiId": "MPI-0002-024",
+    "ubid": "UBID-0002-024",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Doctoral Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-03;Doctoral Gown;2XL"
+  },
+  {
+    "mpiId": "MPI-0002-025",
+    "ubid": "UBID-0002-025",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Doctoral Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-03;Doctoral Gown;3XL"
+  },
+  {
+    "mpiId": "MPI-0002-026",
+    "ubid": "UBID-0002-026",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Doctoral Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-03;Doctoral Gown;4XL"
+  },
+  {
+    "mpiId": "MPI-0002-027",
+    "ubid": "UBID-0002-027",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Doctoral Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-03;Doctoral Gown;5XL"
+  },
+  {
+    "mpiId": "MPI-0002-028",
+    "ubid": "UBID-0002-028",
+    "categoryGroup": "Regalia",
+    "category": "Academic Accessories",
+    "subcategory": "Tassel",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-04;Tassel;STD"
+  },
+  {
+    "mpiId": "MPI-0002-029",
+    "ubid": "UBID-0002-029",
+    "categoryGroup": "Regalia",
+    "category": "Academic Accessories",
+    "subcategory": "Hood",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-05;Hood;STD"
+  },
+  {
+    "mpiId": "MPI-0002-030",
+    "ubid": "UBID-0002-030",
+    "categoryGroup": "Regalia",
+    "category": "Academic Accessories",
+    "subcategory": "Cap",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-06;Cap;STD"
+  },
+  {
+    "mpiId": "MPI-0002-031",
+    "ubid": "UBID-0002-031",
+    "categoryGroup": "Regalia",
+    "category": "Academic Accessories",
+    "subcategory": "Stole",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-07;Stole;STD"
+  },
+  {
+    "mpiId": "MPI-0002-032",
+    "ubid": "UBID-0002-032",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Doctoral Tam",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-08;Doctoral Tam;XS"
+  },
+  {
+    "mpiId": "MPI-0002-033",
+    "ubid": "UBID-0002-033",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Doctoral Tam",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-08;Doctoral Tam;S"
+  },
+  {
+    "mpiId": "MPI-0002-034",
+    "ubid": "UBID-0002-034",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Doctoral Tam",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-08;Doctoral Tam;M"
+  },
+  {
+    "mpiId": "MPI-0002-035",
+    "ubid": "UBID-0002-035",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Doctoral Tam",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-08;Doctoral Tam;L"
+  },
+  {
+    "mpiId": "MPI-0002-036",
+    "ubid": "UBID-0002-036",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Doctoral Tam",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-08;Doctoral Tam;XL"
+  },
+  {
+    "mpiId": "MPI-0002-037",
+    "ubid": "UBID-0002-037",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Doctoral Tam",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-08;Doctoral Tam;2XL"
+  },
+  {
+    "mpiId": "MPI-0002-038",
+    "ubid": "UBID-0002-038",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Doctoral Tam",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-08;Doctoral Tam;3XL"
+  },
+  {
+    "mpiId": "MPI-0002-039",
+    "ubid": "UBID-0002-039",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Doctoral Tam",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-08;Doctoral Tam;4XL"
+  },
+  {
+    "mpiId": "MPI-0002-040",
+    "ubid": "UBID-0002-040",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Doctoral Tam",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-08;Doctoral Tam;5XL"
+  },
+  {
+    "mpiId": "MPI-0003-001",
+    "ubid": "UBID-0003-001",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Bachelor Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-01;Bachelor Gown;XS"
+  },
+  {
+    "mpiId": "MPI-0003-002",
+    "ubid": "UBID-0003-002",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Bachelor Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-01;Bachelor Gown;S"
+  },
+  {
+    "mpiId": "MPI-0003-003",
+    "ubid": "UBID-0003-003",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Bachelor Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-01;Bachelor Gown;M"
+  },
+  {
+    "mpiId": "MPI-0003-004",
+    "ubid": "UBID-0003-004",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Bachelor Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-01;Bachelor Gown;L"
+  },
+  {
+    "mpiId": "MPI-0003-005",
+    "ubid": "UBID-0003-005",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Bachelor Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-01;Bachelor Gown;XL"
+  },
+  {
+    "mpiId": "MPI-0003-006",
+    "ubid": "UBID-0003-006",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Bachelor Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-01;Bachelor Gown;2XL"
+  },
+  {
+    "mpiId": "MPI-0003-007",
+    "ubid": "UBID-0003-007",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Bachelor Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-01;Bachelor Gown;3XL"
+  },
+  {
+    "mpiId": "MPI-0003-008",
+    "ubid": "UBID-0003-008",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Bachelor Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-01;Bachelor Gown;4XL"
+  },
+  {
+    "mpiId": "MPI-0003-009",
+    "ubid": "UBID-0003-009",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Bachelor Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-01;Bachelor Gown;5XL"
+  },
+  {
+    "mpiId": "MPI-0003-010",
+    "ubid": "UBID-0003-010",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Master Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-02;Master Gown;XS"
+  },
+  {
+    "mpiId": "MPI-0003-011",
+    "ubid": "UBID-0003-011",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Master Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-02;Master Gown;S"
+  },
+  {
+    "mpiId": "MPI-0003-012",
+    "ubid": "UBID-0003-012",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Master Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-02;Master Gown;M"
+  },
+  {
+    "mpiId": "MPI-0003-013",
+    "ubid": "UBID-0003-013",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Master Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-02;Master Gown;L"
+  },
+  {
+    "mpiId": "MPI-0003-014",
+    "ubid": "UBID-0003-014",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Master Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-02;Master Gown;XL"
+  },
+  {
+    "mpiId": "MPI-0003-015",
+    "ubid": "UBID-0003-015",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Master Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-02;Master Gown;2XL"
+  },
+  {
+    "mpiId": "MPI-0003-016",
+    "ubid": "UBID-0003-016",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Master Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-02;Master Gown;3XL"
+  },
+  {
+    "mpiId": "MPI-0003-017",
+    "ubid": "UBID-0003-017",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Master Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-02;Master Gown;4XL"
+  },
+  {
+    "mpiId": "MPI-0003-018",
+    "ubid": "UBID-0003-018",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Master Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-02;Master Gown;5XL"
+  },
+  {
+    "mpiId": "MPI-0003-019",
+    "ubid": "UBID-0003-019",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Doctoral Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-03;Doctoral Gown;XS"
+  },
+  {
+    "mpiId": "MPI-0003-020",
+    "ubid": "UBID-0003-020",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Doctoral Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-03;Doctoral Gown;S"
+  },
+  {
+    "mpiId": "MPI-0003-021",
+    "ubid": "UBID-0003-021",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Doctoral Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-03;Doctoral Gown;M"
+  },
+  {
+    "mpiId": "MPI-0003-022",
+    "ubid": "UBID-0003-022",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Doctoral Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-03;Doctoral Gown;L"
+  },
+  {
+    "mpiId": "MPI-0003-023",
+    "ubid": "UBID-0003-023",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Doctoral Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-03;Doctoral Gown;XL"
+  },
+  {
+    "mpiId": "MPI-0003-024",
+    "ubid": "UBID-0003-024",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Doctoral Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-03;Doctoral Gown;2XL"
+  },
+  {
+    "mpiId": "MPI-0003-025",
+    "ubid": "UBID-0003-025",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Doctoral Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-03;Doctoral Gown;3XL"
+  },
+  {
+    "mpiId": "MPI-0003-026",
+    "ubid": "UBID-0003-026",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Doctoral Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-03;Doctoral Gown;4XL"
+  },
+  {
+    "mpiId": "MPI-0003-027",
+    "ubid": "UBID-0003-027",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Doctoral Gown",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-03;Doctoral Gown;5XL"
+  },
+  {
+    "mpiId": "MPI-0003-028",
+    "ubid": "UBID-0003-028",
+    "categoryGroup": "Regalia",
+    "category": "Academic Accessories",
+    "subcategory": "Tassel",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-04;Tassel;STD"
+  },
+  {
+    "mpiId": "MPI-0003-029",
+    "ubid": "UBID-0003-029",
+    "categoryGroup": "Regalia",
+    "category": "Academic Accessories",
+    "subcategory": "Hood",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-05;Hood;STD"
+  },
+  {
+    "mpiId": "MPI-0003-030",
+    "ubid": "UBID-0003-030",
+    "categoryGroup": "Regalia",
+    "category": "Academic Accessories",
+    "subcategory": "Cap",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-06;Cap;STD"
+  },
+  {
+    "mpiId": "MPI-0003-031",
+    "ubid": "UBID-0003-031",
+    "categoryGroup": "Regalia",
+    "category": "Academic Accessories",
+    "subcategory": "Stole",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-07;Stole;STD"
+  },
+  {
+    "mpiId": "MPI-0003-032",
+    "ubid": "UBID-0003-032",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Doctoral Tam",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-08;Doctoral Tam;XS"
+  },
+  {
+    "mpiId": "MPI-0003-033",
+    "ubid": "UBID-0003-033",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Doctoral Tam",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-08;Doctoral Tam;S"
+  },
+  {
+    "mpiId": "MPI-0003-034",
+    "ubid": "UBID-0003-034",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Doctoral Tam",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-08;Doctoral Tam;M"
+  },
+  {
+    "mpiId": "MPI-0003-035",
+    "ubid": "UBID-0003-035",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Doctoral Tam",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-08;Doctoral Tam;L"
+  },
+  {
+    "mpiId": "MPI-0003-036",
+    "ubid": "UBID-0003-036",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Doctoral Tam",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-08;Doctoral Tam;XL"
+  },
+  {
+    "mpiId": "MPI-0003-037",
+    "ubid": "UBID-0003-037",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Doctoral Tam",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-08;Doctoral Tam;2XL"
+  },
+  {
+    "mpiId": "MPI-0003-038",
+    "ubid": "UBID-0003-038",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Doctoral Tam",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-08;Doctoral Tam;3XL"
+  },
+  {
+    "mpiId": "MPI-0003-039",
+    "ubid": "UBID-0003-039",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Doctoral Tam",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-08;Doctoral Tam;4XL"
+  },
+  {
+    "mpiId": "MPI-0003-040",
+    "ubid": "UBID-0003-040",
+    "categoryGroup": "Regalia",
+    "category": "Academic Gowns",
+    "subcategory": "Doctoral Tam",
+    "industryClassification": "Educational Regalia",
+    "tags": "REG-08;Doctoral Tam;5XL"
+  }
+]
